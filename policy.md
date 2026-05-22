@@ -4,6 +4,7 @@
 
 website- http://dgft.gov.in/
 
+
 ---
 
 ## 🔹 Page 2
@@ -38,356 +39,365 @@ CHAPTER 1 9
 LEGAL FRAMEWORK AND TRADE FACILITATION 9
 ........................
 A. LEGAL FRAMEWORK...............................................................................................................9
-1.00 LEGAL BASIS OF FOREIGN TRADE POLICY (FTP) 9
-1.01 DURATION OF FTP 9
-1.02 AMENDMENT TO FTP 9
-1.03 HAND BOOK OF PROCEDURES (HBP) AND APPENDICES & AAYAT NIRYAT FORMS (AANF) 9
-1.04 SPECIFIC PROVISION TO PREVAIL OVER THE GENERAL 9
-1.05 TRANSITIONAL ARRANGEMENTS 10
+- 1.00 LEGAL BASIS OF FOREIGN TRADE POLICY (FTP) 9
+- 1.01 DURATION OF FTP 9
+- 1.02 AMENDMENT TO FTP 9
+- 1.03 HAND BOOK OF PROCEDURES (HBP) AND APPENDICES & AAYAT NIRYAT FORMS (AANF) 9
+- 1.04 SPECIFIC PROVISION TO PREVAIL OVER THE GENERAL 9
+- 1.05 TRANSITIONAL ARRANGEMENTS 10
 B. TRADE FACILITATION& EASE OF DOING BUSINESS................................................10
-1.06 OBJECTIVE 10
-1.07 DGFT AS A FACILITATOR OF EXPORTS/IMPORTS 10
-1.08 NIRYAT BANDHU - HAND HOLDING SCHEME FOR NEW EXPORT / IMPORT ENTREPRENEURS 11
-1.09 CITIZEN’S CHARTER 11
-1.10 ONLINE COMPLAINT REGISTRATION AND MONITORING SYSTEM 11
-1.11 ISSUE OF E-IEC (ELECTRONIC-IMPORTER EXPORTER CODE) 11
-1.12 E-BRC 12
-1.13 MOU WITH STATE GOVERNMENTS FOR SHARING OF E-BRC DATA 12
-1.14 EXPORTER IMPORTER PROFILE 12
-1.15 REDUCTION IN MANDATORY DOCUMENTS REQUIRED FOR EXPORT AND IMPORT 13
-1.16 FACILITY OF ONLINE FILING OF APPLICATIONS 13
-1.17 ONLINE INTER-MINISTERIAL CONSULTATION 13
-1.18 FACILITY TO UPLOAD DOCUMENTS BY CA/ CS / COST ACCOUNTANT 14
-1.19 ELECTRONIC DATA INTERCHANGE (EDI) 14
-1.20 MESSAGE EXCHANGE WITH COMMUNITY PARTNERS 14
-1.21 ENCOURAGING DEVELOPMENT OF THIRD PARTY API 15
-1.22 FORTHCOMING E-GOVERNANCE INITIATIVES 15
-1.23 FREE PASSAGE OF EXPORT CONSIGNMENT 15
-1.24 NO SEIZURE OF EXPORT RELATED STOCK 16
-1.25 24 X 7 CUSTOMS CLEARANCE 16
-1.26 SINGLE WINDOW IN CUSTOMS 16
-1.27 SELF-ASSESSMENT OF CUSTOMS DUTY 17
-1.28 AUTHORISED ECONOMIC OPERATOR (AEO) PROGRAMME 17
-1.29 PRIOR FILING FACILITY FOR SHIPPING BILLS 18
-1.30 CUTTING DOWN DELAY IN FILING OF EXPORT GENERAL MANIFEST (EGM) FOR DUTY DRAWBACK 18
-1.31 FACILITY OF COMMON BOND / LUT AGAINST AUTHORISATIONS ISSUED UNDER DIFFERENT EP
+- 1.06 OBJECTIVE 10
+- 1.07 DGFT AS A FACILITATOR OF EXPORTS/IMPORTS 10
+- 1.08 NIRYAT BANDHU - HAND HOLDING SCHEME FOR NEW EXPORT / IMPORT ENTREPRENEURS 11
+- 1.09 CITIZEN’S CHARTER 11
+- 1.10 ONLINE COMPLAINT REGISTRATION AND MONITORING SYSTEM 11
+- 1.11 ISSUE OF E-IEC (ELECTRONIC-IMPORTER EXPORTER CODE) 11
+- 1.12 E-BRC 12
+- 1.13 MOU WITH STATE GOVERNMENTS FOR SHARING OF E-BRC DATA 12
+- 1.14 EXPORTER IMPORTER PROFILE 12
+- 1.15 REDUCTION IN MANDATORY DOCUMENTS REQUIRED FOR EXPORT AND IMPORT 13
+- 1.16 FACILITY OF ONLINE FILING OF APPLICATIONS 13
+- 1.17 ONLINE INTER-MINISTERIAL CONSULTATION 13
+- 1.18 FACILITY TO UPLOAD DOCUMENTS BY CA/ CS / COST ACCOUNTANT 14
+- 1.19 ELECTRONIC DATA INTERCHANGE (EDI) 14
+- 1.20 MESSAGE EXCHANGE WITH COMMUNITY PARTNERS 14
+- 1.21 ENCOURAGING DEVELOPMENT OF THIRD PARTY API 15
+- 1.22 FORTHCOMING E-GOVERNANCE INITIATIVES 15
+- 1.23 FREE PASSAGE OF EXPORT CONSIGNMENT 15
+- 1.24 NO SEIZURE OF EXPORT RELATED STOCK 16
+- 1.25 24 X 7 CUSTOMS CLEARANCE 16
+- 1.26 SINGLE WINDOW IN CUSTOMS 16
+- 1.27 SELF-ASSESSMENT OF CUSTOMS DUTY 17
+- 1.28 AUTHORISED ECONOMIC OPERATOR (AEO) PROGRAMME 17
+- 1.29 PRIOR FILING FACILITY FOR SHIPPING BILLS 18
+- 1.30 CUTTING DOWN DELAY IN FILING OF EXPORT GENERAL MANIFEST (EGM) FOR DUTY DRAWBACK 18
+- 1.31 FACILITY OF COMMON BOND / LUT AGAINST AUTHORISATIONS ISSUED UNDER DIFFERENT EP
 SCHEMES 18
-1.32 EXEMPTION FROM SERVICE TAX ON SERVICES RECEIVED ABROAD 18
-1.33 EXPORT OF PERISHABLE AGRICULTURAL PRODUCTS 18
-1.34 TIME RELEASE STUDY (TRS) 19
-1.35 TOWNS OF EXPORT EXCELLENCE (TEE) 19
-1.36 DGCI&S, KOLKATA AS THE PROVIDER OF TRADE DATA 20
-1.37 REDUCING/ELIMINATING PRINTOUT IN CUSTOMS CLEARANCE 20
-1.38 NATIONAL COMMITTEE ON TRADE FACILITATION (NCTF) 20
-1.39 E-MAIL INITIATIVES 21
-1
+- 1.32 EXEMPTION FROM SERVICE TAX ON SERVICES RECEIVED ABROAD 18
+- 1.33 EXPORT OF PERISHABLE AGRICULTURAL PRODUCTS 18
+- 1.34 TIME RELEASE STUDY (TRS) 19
+- 1.35 TOWNS OF EXPORT EXCELLENCE (TEE) 19
+- 1.36 DGCI&S, KOLKATA AS THE PROVIDER OF TRADE DATA 20
+- 1.37 REDUCING/ELIMINATING PRINTOUT IN CUSTOMS CLEARANCE 20
+- 1.38 NATIONAL COMMITTEE ON TRADE FACILITATION (NCTF) 20
+- 1.39 E-MAIL INITIATIVES 21
+- 1
+
 
 ---
 
 ## 🔹 Page 7
 
-1.40 FACILITY OF DEFERRED PAYMENT 21
+- 1.40 FACILITY OF DEFERRED PAYMENT 21
 CHAPTER 2 23
 ...............................................................................................................................
 GENERAL PROVISIONS REGARDING IMPORTS AND EXPORTS
-23
+- 23
 ..................................................................................................................................................................
-2.00 OBJECTIVE 23
-2.01 EXPORTS AND IMPORTS – ‘FREE’, UNLESS REGULATED 23
-2.02 INDIAN TRADE CLASSIFICATION (HARMONISED SYSTEM) [ITC (HS)] OF EXPORTS AND IMPORTS.23
-2.03 COMPLIANCE OF IMPORTS WITH DOMESTIC LAWS 24
-2.04 AUTHORITY TO SPECIFY PROCEDURES 24
+- 2.00 OBJECTIVE 23
+- 2.01 EXPORTS AND IMPORTS – ‘FREE’, UNLESS REGULATED 23
+- 2.02 INDIAN TRADE CLASSIFICATION (HARMONISED SYSTEM) [ITC (HS)] OF EXPORTS AND IMPORTS.23
+- 2.03 COMPLIANCE OF IMPORTS WITH DOMESTIC LAWS 24
+- 2.04 AUTHORITY TO SPECIFY PROCEDURES 24
 IMPORTER-EXPORTER CODE/E-IEC........................................................................................................24
-2.05 IMPORTER-EXPORTER CODE (IEC) 24
-2.06 MANDATORY DOCUMENTS FOR EXPORT/IMPORT OF GOODS FROM/INTO INDIA: 26
-2.07 PRINCIPLES OF RESTRICTIONS 27
-2.08 EXPORT/IMPORT OF RESTRICTED GOODS/SERVICES 27
-2.09 EXPORT OF SCOMET ITEMS 27
-2.10 ACTUAL USER CONDITION 28
-2.11 TERMS AND CONDITIONS OF AN AUTHORISATION 28
-2.12 APPLICATION FEE 28
-2.13 CLEARANCE OF GOODS FROM CUSTOMS AGAINST AUTHORISATION 29
-2.14 AUTHORISATION - NOT A RIGHT 29
-2.15 PENAL ACTION AND PLACING OF AN ENTITY IN DENIED ENTITY LIST (DEL) 29
+- 2.05 IMPORTER-EXPORTER CODE (IEC) 24
+- 2.06 MANDATORY DOCUMENTS FOR EXPORT/IMPORT OF GOODS FROM/INTO INDIA: 26
+- 2.07 PRINCIPLES OF RESTRICTIONS 27
+- 2.08 EXPORT/IMPORT OF RESTRICTED GOODS/SERVICES 27
+- 2.09 EXPORT OF SCOMET ITEMS 27
+- 2.10 ACTUAL USER CONDITION 28
+- 2.11 TERMS AND CONDITIONS OF AN AUTHORISATION 28
+- 2.12 APPLICATION FEE 28
+- 2.13 CLEARANCE OF GOODS FROM CUSTOMS AGAINST AUTHORISATION 29
+- 2.14 AUTHORISATION - NOT A RIGHT 29
+- 2.15 PENAL ACTION AND PLACING OF AN ENTITY IN DENIED ENTITY LIST (DEL) 29
 PROHIBITIONS (COUNTRY, ORGANISATIONS, GROUPS, INDIVIDUALS ETC. AND PRODUCT SPECIFIC):
 .............................................................................................................................................30
-2.16 PROHIBITION ON IMPORT AND EXPORT OF ‘ARMS AND RELATED MATERIAL’ FROM / TO IRAQ 30
-2.16 A PROHIBITION ON TRADE WITH THE ISLAMIC STATE IN IRAQ AND THE LEVANT [ISIL, ALSO KNOWN AS
+- 2.16 PROHIBITION ON IMPORT AND EXPORT OF ‘ARMS AND RELATED MATERIAL’ FROM / TO IRAQ 30
+- 2.16 A PROHIBITION ON TRADE WITH THE ISLAMIC STATE IN IRAQ AND THE LEVANT [ISIL, ALSO KNOWN AS
 DAESH], AL NUSRAH FRONT [ANF] AND OTHER INDIVIDUALS, GROUPS, UNDERTAKINGS AND ENTITIES
 ASSOCIATED WITH AL QAIDA 30
-2.17 PROHIBITION ON DIRECT OR INDIRECT IMPORT AND EXPORT FROM/TO DPRK 31
-2.18 DIRECT OR INDIRECT EXPORT/IMPORT TO/FROM IRAN 31
-2.19 PROHIBITION ON IMPORT OF CHARCOAL FROM SOMALIA 32
-2.20 STATE TRADING ENTERPRISES (STES) 32
-2.21 TRADE WITH NEIGHBOURING COUNTRIES 33
-2.22 TRANSIT FACILITY 33
-2.23 TRADE WITH RUSSIA UNDER DEBT-REPAYMENT AGREEMENT 33
-2.24 IMPORT OF SAMPLES 33
-2.25 IMPORT OF GIFTS 33
-2.26 PASSENGER BAGGAGE 33
-2.27 RE – IMPORT OF GOODS REPAIRED ABROAD 34
-2.28 IMPORT OF GOODS USED IN PROJECTS ABROAD 34
-2.29 IMPORT OF PROTOTYPES 34
-2.30 IMPORT THROUGH COURIER SERVICE/POST 35
-2.31 SECOND HAND GOODS 35
+- 2.17 PROHIBITION ON DIRECT OR INDIRECT IMPORT AND EXPORT FROM/TO DPRK 31
+- 2.18 DIRECT OR INDIRECT EXPORT/IMPORT TO/FROM IRAN 31
+- 2.19 PROHIBITION ON IMPORT OF CHARCOAL FROM SOMALIA 32
+- 2.20 STATE TRADING ENTERPRISES (STES) 32
+- 2.21 TRADE WITH NEIGHBOURING COUNTRIES 33
+- 2.22 TRANSIT FACILITY 33
+- 2.23 TRADE WITH RUSSIA UNDER DEBT-REPAYMENT AGREEMENT 33
+- 2.24 IMPORT OF SAMPLES 33
+- 2.25 IMPORT OF GIFTS 33
+- 2.26 PASSENGER BAGGAGE 33
+- 2.27 RE – IMPORT OF GOODS REPAIRED ABROAD 34
+- 2.28 IMPORT OF GOODS USED IN PROJECTS ABROAD 34
+- 2.29 IMPORT OF PROTOTYPES 34
+- 2.30 IMPORT THROUGH COURIER SERVICE/POST 35
+- 2.31 SECOND HAND GOODS 35
 IMPORT POLICY FOR METALLIC WASTE AND SCRAPS:..........................................................................36
-2. 32 IMPORT OF METALLIC WASTE AND SCRAP 36
-2.33 REMOVAL OF SCRAP/WASTE FROM SEZ 36
+- 2. 32 IMPORT OF METALLIC WASTE AND SCRAP 36
+- 2.33 REMOVAL OF SCRAP/WASTE FROM SEZ 36
 OTHER PROVISIONS RELATED TO IMPORTS:..........................................................................................36
-2.34 IMPORT UNDER LEASE FINANCING 36
-2.35 EXECUTION OF LEGAL UNDERTAKING (LUT) / BANK GUARANTEE (BG) 37
-2.36 PRIVATE/PUBLIC BONDED WAREHOUSES FOR IMPORTS 37
-2.37 SPECIAL PROVISION FOR HIDES SKINS AND SEMI-FINISHED GOODS 37
+- 2.34 IMPORT UNDER LEASE FINANCING 36
+- 2.35 EXECUTION OF LEGAL UNDERTAKING (LUT) / BANK GUARANTEE (BG) 37
+- 2.36 PRIVATE/PUBLIC BONDED WAREHOUSES FOR IMPORTS 37
+- 2.37 SPECIAL PROVISION FOR HIDES SKINS AND SEMI-FINISHED GOODS 37
+
 
 ---
 
 ## 🔹 Page 8
 
-2
+- 2
+
 
 ---
 
 ## 🔹 Page 9
 
-2.38 SALE ON HIGH SEAS 38
+- 2.38 SALE ON HIGH SEAS 38
 EXPORTS:..................................................................................................................................................38
-2.39 FREE EXPORTS 38
-2.40 DELETED 38
-2.41 BENEFITS FOR SUPPORTING MANUFACTURERS 38
-2.42 THIRD PARTY EXPORTS 38
-2.43 EXPORT OF SAMPLES 39
-2.44 EXPORT OF GIFTS 39
-2.45 EXPORT OF PASSENGER BAGGAGE 39
-2.46 IMPORT FOR EXPORT 39
-2.47 EXPORT THROUGH COURIER SERVICE/POST 41
-2.48 EXPORT OF REPLACEMENT GOODS 41
-2.49 EXPORT OF REPAIRED GOODS 42
-2.50 EXPORT OF SPARES 42
-2.50A RE-EXPORT OF IMPORTED GOODS FOUND DEFECTIVE AND UNSUITABLE FOR USE: 42
-2.51 PRIVATE BONDED WAREHOUSES FOR EXPORTS 42
-2.52 DENOMINATION OF EXPORT CONTRACTS 43
-2.53 EXPORT TO IRAN –REALISATIONS IN INDIAN RUPEES TO BE ELIGIBLE FOR FTP BENEFITS /
+- 2.39 FREE EXPORTS 38
+- 2.40 DELETED 38
+- 2.41 BENEFITS FOR SUPPORTING MANUFACTURERS 38
+- 2.42 THIRD PARTY EXPORTS 38
+- 2.43 EXPORT OF SAMPLES 39
+- 2.44 EXPORT OF GIFTS 39
+- 2.45 EXPORT OF PASSENGER BAGGAGE 39
+- 2.46 IMPORT FOR EXPORT 39
+- 2.47 EXPORT THROUGH COURIER SERVICE/POST 41
+- 2.48 EXPORT OF REPLACEMENT GOODS 41
+- 2.49 EXPORT OF REPAIRED GOODS 42
+- 2.50 EXPORT OF SPARES 42
+- 2.50A RE-EXPORT OF IMPORTED GOODS FOUND DEFECTIVE AND UNSUITABLE FOR USE: 42
+- 2.51 PRIVATE BONDED WAREHOUSES FOR EXPORTS 42
+- 2.52 DENOMINATION OF EXPORT CONTRACTS 43
+- 2.53 EXPORT TO IRAN –REALISATIONS IN INDIAN RUPEES TO BE ELIGIBLE FOR FTP BENEFITS /
 INCENTIVES 43
-2.54 NON-REALISATION OF EXPORT PROCEEDS 44
-2.54A EXPORT CREDIT AGENCIES (ECAS) 44
-2.55 RECOGNITION OF EPCS TO FUNCTION AS REGISTERING AUTHORITY FOR ISSUE OF RCMC 45
-2.56 REGISTRATION-CUM-MEMBERSHIP CERTIFICATE (RCMC) 45
-2.57 INTERPRETATION OF POLICY 46
-2.58 EXEMPTION FROM POLICY/PROCEDURES 46
-2.59 PERSONAL HEARING BY DGFT FOR GRIEVANCE REDRESSAL 47
-2.60 REGULARIZATION OF EO DEFAULT AND SETTLEMENT OF CUSTOMS DUTY AND INTEREST
+- 2.54 NON-REALISATION OF EXPORT PROCEEDS 44
+- 2.54A EXPORT CREDIT AGENCIES (ECAS) 44
+- 2.55 RECOGNITION OF EPCS TO FUNCTION AS REGISTERING AUTHORITY FOR ISSUE OF RCMC 45
+- 2.56 REGISTRATION-CUM-MEMBERSHIP CERTIFICATE (RCMC) 45
+- 2.57 INTERPRETATION OF POLICY 46
+- 2.58 EXEMPTION FROM POLICY/PROCEDURES 46
+- 2.59 PERSONAL HEARING BY DGFT FOR GRIEVANCE REDRESSAL 47
+- 2.60 REGULARIZATION OF EO DEFAULT AND SETTLEMENT OF CUSTOMS DUTY AND INTEREST
 THROUGH SETTLEMENT COMMISSION 47
-2.61 APPROVED EXPORTER SCHEME FOR SELF CERTIFICATION OF CERTIFICATE OF ORIGIN. 48
-2.62 CERTIFICATION OF ORIGIN OF GOODS EU-GSP 48
+- 2.61 APPROVED EXPORTER SCHEME FOR SELF CERTIFICATION OF CERTIFICATE OF ORIGIN. 48
+- 2.62 CERTIFICATION OF ORIGIN OF GOODS EU-GSP 48
 CHAPTER 3 51
 ...............................................................................................................................
 EXPORTS FROM INDIA SCHEMES................................................................................................51
-3.00 OBJECTIVE 51
-3.01 EXPORTS FROM INDIA SCHEMES 51
-3.02 NATURE OF REWARDS 51
+- 3.00 OBJECTIVE 51
+- 3.01 EXPORTS FROM INDIA SCHEMES 51
+- 3.02 NATURE OF REWARDS 51
 MERCHANDISE EXPORTS FROM INDIA SCHEME (MEIS)........................................................................51
-3.03 OBJECTIVE 51
-3.04 ENTITLEMENT UNDER MEIS 52
-3.05 EXPORT OF GOODS THROUGH COURIER OR FOREIGN POST OFFICES USING E-COMMERCE 52
-3.06 INELIGIBLE CATEGORIES UNDER MEIS 52
+- 3.03 OBJECTIVE 51
+- 3.04 ENTITLEMENT UNDER MEIS 52
+- 3.05 EXPORT OF GOODS THROUGH COURIER OR FOREIGN POST OFFICES USING E-COMMERCE 52
+- 3.06 INELIGIBLE CATEGORIES UNDER MEIS 52
 SERVICE EXPORTS FROM INDIA SCHEME (SEIS)..................................................................................53
-3.07 OBJECTIVE 53
-3.08 ELIGIBILITY 53
-3.09 INELIGIBLE CATEGORIES UNDER SEIS 54
-3.10 ENTITLEMENT UNDER SEIS 54
-3.11 REMITTANCES THROUGH CREDIT CARD AND OTHER INSTRUMENTS FOR MEIS AND SEIS 54
-3.12 EFFECTIVE DATE OF SCHEMES (MEIS AND SEIS) 54
-3.13 SPECIAL PROVISIONS 54
+- 3.07 OBJECTIVE 53
+- 3.08 ELIGIBILITY 53
+- 3.09 INELIGIBLE CATEGORIES UNDER SEIS 54
+- 3.10 ENTITLEMENT UNDER SEIS 54
+- 3.11 REMITTANCES THROUGH CREDIT CARD AND OTHER INSTRUMENTS FOR MEIS AND SEIS 54
+- 3.12 EFFECTIVE DATE OF SCHEMES (MEIS AND SEIS) 54
+- 3.13 SPECIAL PROVISIONS 54
 COMMON PROVISIONS FOR EXPORTS FROM INDIA SCHEMES (MEIS AND SEIS)..............................55
-3.14 TRANSITIONAL ARRANGEMENT 55
-3
+- 3.14 TRANSITIONAL ARRANGEMENT 55
+- 3
+
 
 ---
 
 ## 🔹 Page 10
 
-3.15 CENVAT/ DRAWBACK 55
-3.16 IMPORT UNDER LEASE FINANCING 55
-3.17 TRANSFER OF EXPORT PERFORMANCE 55
-3.18 FACILITY OF PAYMENT OF CUSTOM DUTIES AND FEE THROUGH DUTY CREDIT SCRIPS 56
-3.19 RISK MANAGEMENT SYSTEM 56
-3.20 STATUS HOLDER 57
-3.21 STATUS CATEGORY 58
-3.22 GRANT OF DOUBLE WEIGHTAGE 58
-3.23 OTHER CONDITIONS FOR GRANT OF STATUS 59
-3.24 PRIVILEGES OF STATUS HOLDERS 59
+- 3.15 CENVAT/ DRAWBACK 55
+- 3.16 IMPORT UNDER LEASE FINANCING 55
+- 3.17 TRANSFER OF EXPORT PERFORMANCE 55
+- 3.18 FACILITY OF PAYMENT OF CUSTOM DUTIES AND FEE THROUGH DUTY CREDIT SCRIPS 56
+- 3.19 RISK MANAGEMENT SYSTEM 56
+- 3.20 STATUS HOLDER 57
+- 3.21 STATUS CATEGORY 58
+- 3.22 GRANT OF DOUBLE WEIGHTAGE 58
+- 3.23 OTHER CONDITIONS FOR GRANT OF STATUS 59
+- 3.24 PRIVILEGES OF STATUS HOLDERS 59
 CHAPTER 4 61
 ...............................................................................................................................
 DUTY EXEMPTION /REMISSION SCHEMES..............................................................................61
-4.00 OBJECTIVE 61
-4.01 SCHEMES 61
-4.02 APPLICABILITY OF POLICY & PROCEDURES 61
-4.03 ADVANCEAUTHORISATION 61
-4.04 ADVANCE AUTHORISATION FOR SPICES 62
-4.05 ELIGIBLE APPLICANT / EXPORT / SUPPLY 63
-4.06 ADVANCE AUTHORISATION FOR ANNUAL REQUIREMENT 64
-4.07 ELIGIBILITY CONDITION TO OBTAIN ADVANCE AUTHORISATION FOR ANNUAL REQUIREMENT 64
-4.07A SELF RATIFICATION SCHEME 64
-4.08 VALUE ADDITION 67
-4.09 MINIMUM VALUE ADDITION 67
-4.10 IMPORT OF MANDATORY SPARES 68
-4.11 INELIGIBLE CATEGORIES OF IMPORT ON SELF DECLARATION BASIS 68
-4.12 ACCOUNTING OF INPUT 69
-4.13 PRE-IMPORT CONDITION IN CERTAIN CASES 69
-4.14 DETAILS OF DUTIES EXEMPTED 70
-4.15 ADMISSIBILITY OF DRAWBACK 70
-4.16 ACTUAL USER CONDITION FOR ADVANCE AUTHORISATION 70
-4.17 VALIDITY PERIOD FOR IMPORT AND ITS EXTENSION 71
-4.18 IMPORTABILITY/EXPORT ABILITY OF ITEMS THAT ARE PROHIBITED/RESTRICTED/ STE 71
-4.19 FREE OF COST SUPPLY BY FOREIGN BUYER 72
-4.20 DOMESTIC SOURCING OF INPUTS 72
-4.21 CURRENCY FOR REALISATION OF EXPORT PROCEEDS. 73
-4.22 EXPORT OBLIGATION PERIOD AND ITS EXTENSION 73
-4.23 DELETED 73
-4.24 RE-IMPORT OF EXPORTED GOODS UNDER DUTY EXEMPTION / REMISSION SCHEME 73
+- 4.00 OBJECTIVE 61
+- 4.01 SCHEMES 61
+- 4.02 APPLICABILITY OF POLICY & PROCEDURES 61
+- 4.03 ADVANCEAUTHORISATION 61
+- 4.04 ADVANCE AUTHORISATION FOR SPICES 62
+- 4.05 ELIGIBLE APPLICANT / EXPORT / SUPPLY 63
+- 4.06 ADVANCE AUTHORISATION FOR ANNUAL REQUIREMENT 64
+- 4.07 ELIGIBILITY CONDITION TO OBTAIN ADVANCE AUTHORISATION FOR ANNUAL REQUIREMENT 64
+- 4.07A SELF RATIFICATION SCHEME 64
+- 4.08 VALUE ADDITION 67
+- 4.09 MINIMUM VALUE ADDITION 67
+- 4.10 IMPORT OF MANDATORY SPARES 68
+- 4.11 INELIGIBLE CATEGORIES OF IMPORT ON SELF DECLARATION BASIS 68
+- 4.12 ACCOUNTING OF INPUT 69
+- 4.13 PRE-IMPORT CONDITION IN CERTAIN CASES 69
+- 4.14 DETAILS OF DUTIES EXEMPTED 70
+- 4.15 ADMISSIBILITY OF DRAWBACK 70
+- 4.16 ACTUAL USER CONDITION FOR ADVANCE AUTHORISATION 70
+- 4.17 VALIDITY PERIOD FOR IMPORT AND ITS EXTENSION 71
+- 4.18 IMPORTABILITY/EXPORT ABILITY OF ITEMS THAT ARE PROHIBITED/RESTRICTED/ STE 71
+- 4.19 FREE OF COST SUPPLY BY FOREIGN BUYER 72
+- 4.20 DOMESTIC SOURCING OF INPUTS 72
+- 4.21 CURRENCY FOR REALISATION OF EXPORT PROCEEDS. 73
+- 4.22 EXPORT OBLIGATION PERIOD AND ITS EXTENSION 73
+- 4.23 DELETED 73
+- 4.24 RE-IMPORT OF EXPORTED GOODS UNDER DUTY EXEMPTION / REMISSION SCHEME 73
 DUTY FREE IMPORT AUTHORISATION SCHEME (DFIA)......................................................74
-4.25 DFIA SCHEME 74
-4.26 DUTIES EXEMPTED 74
-4.27 ELIGIBILITY 74
-4.28 MINIMUM VALUE ADDITION 75
-4.29 VALIDITY &TRANSFERABILITY OF DFIA 75
-4.30 SENSITIVE ITEMS UNDER DUTY FREE IMPORT AUTHORISATION 76
+- 4.25 DFIA SCHEME 74
+- 4.26 DUTIES EXEMPTED 74
+- 4.27 ELIGIBILITY 74
+- 4.28 MINIMUM VALUE ADDITION 75
+- 4.29 VALIDITY &TRANSFERABILITY OF DFIA 75
+- 4.30 SENSITIVE ITEMS UNDER DUTY FREE IMPORT AUTHORISATION 76
 SCHEMES FOR EXPORTERS OF GEMSAND JEWELLERY.................................................76
-4.31 IMPORT OF INPUT 76
-4.32 ITEMS OF EXPORT 76
-4.33 SCHEMES 77
-4.34 ADVANCE PROCUREMENT/ REPLENISHMENT OF PRECIOUS METALS FROM NOMINATED AGENCIES77
-4
+- 4.31 IMPORT OF INPUT 76
+- 4.32 ITEMS OF EXPORT 76
+- 4.33 SCHEMES 77
+- 4.34 ADVANCE PROCUREMENT/ REPLENISHMENT OF PRECIOUS METALS FROM NOMINATED AGENCIES77
+- 4
+
 
 ---
 
 ## 🔹 Page 11
 
-4.35 REPLENISHMENT AUTHORISATION FOR GEMS 78
-4.36 REPLENISHMENT AUTHORISATION FOR CONSUMABLES 78
-4.37 ADVANCE AUTHORISATION FOR PRECIOUS METALS 79
-4.38 VALUE ADDITION 79
-4.39 WASTAGE NORMS 80
-4.40 DFIA NOT AVAILABLE 80
-4.41 NOMINATED AGENCIES 80
-4.42 IMPORT OF DIAMONDS FOR CERTIFICATION / GRADING & RE- EXPORT 81
-4.43 EXPORT OF CUT & POLISHED DIAMONDS FOR CERTIFICATION/ GRADING & RE-IMPORT 81
-4.44 EXPORT OF CUT & POLISHED DIAMONDS WITH RE-IMPORT FACILITY AT ZERO DUTY 81
-4.45 EXPORT AGAINST SUPPLY BY FOREIGN BUYER 82
-4.46 EXPORT PROMOTION TOURS/ EXPORT OF BRANDED JEWELLERY 82
-4.47 PERSONAL CARRIAGE OF EXPORT /IMPORT PARCELS 82
-4.48 EXPORT BY POST 82
-4.49 PRIVATE / PUBLIC BONDED WAREHOUSE 83
-4.50 DIAMOND & JEWELLERY DOLLAR ACCOUNTS 83
-4.51 EXPORT OF CUT & POLISHED PRECIOUS AND SEMI-PRECIOUS STONES FOR TREATMENT AND RE-IMPORT
-84
-4.52 RE-IMPORT OF REJECTED JEWELLERY 84
-4.53 EXPORT AND IMPORT ON CONSIGNMENT BASIS 84
+- 4.35 REPLENISHMENT AUTHORISATION FOR GEMS 78
+- 4.36 REPLENISHMENT AUTHORISATION FOR CONSUMABLES 78
+- 4.37 ADVANCE AUTHORISATION FOR PRECIOUS METALS 79
+- 4.38 VALUE ADDITION 79
+- 4.39 WASTAGE NORMS 80
+- 4.40 DFIA NOT AVAILABLE 80
+- 4.41 NOMINATED AGENCIES 80
+- 4.42 IMPORT OF DIAMONDS FOR CERTIFICATION / GRADING & RE- EXPORT 81
+- 4.43 EXPORT OF CUT & POLISHED DIAMONDS FOR CERTIFICATION/ GRADING & RE-IMPORT 81
+- 4.44 EXPORT OF CUT & POLISHED DIAMONDS WITH RE-IMPORT FACILITY AT ZERO DUTY 81
+- 4.45 EXPORT AGAINST SUPPLY BY FOREIGN BUYER 82
+- 4.46 EXPORT PROMOTION TOURS/ EXPORT OF BRANDED JEWELLERY 82
+- 4.47 PERSONAL CARRIAGE OF EXPORT /IMPORT PARCELS 82
+- 4.48 EXPORT BY POST 82
+- 4.49 PRIVATE / PUBLIC BONDED WAREHOUSE 83
+- 4.50 DIAMOND & JEWELLERY DOLLAR ACCOUNTS 83
+- 4.51 EXPORT OF CUT & POLISHED PRECIOUS AND SEMI-PRECIOUS STONES FOR TREATMENT AND RE-IMPORT
+- 84
+- 4.52 RE-IMPORT OF REJECTED JEWELLERY 84
+- 4.53 EXPORT AND IMPORT ON CONSIGNMENT BASIS 84
 CHAPTER 5 ........................................................................................................ 85
 EXPORT PROMOTION CAPITAL GOODS (EPCG) SCHEME ................................................................ 85
-5.00 OBJECTIVE 85
-5.01 EPCG SCHEME 85
-5.02 COVERAGE 86
-5.03 ACTUAL USER CONDITION 87
-5.04 EXPORT OBLIGATION (EO) 87
-5.05 DELETED 88
-5.06 LUT/BOND/BG IN CASE OF AGRO UNITS 88
-5.07 INDIGENOUS SOURCING OF CAPITAL GOODS AND BENEFITS TO DOMESTIC SUPPLIER 88
-5.08 CALCULATION OF EXPORT OBLIGATION 88
-5.09 INCENTIVE FOR EARLY EO FULFILMENT 89
-5.10 REDUCED EO FOR GREEN TECHNOLOGY PRODUCTS 89
-5.11 REDUCED EO FOR NORTH EAST REGION AND JAMMU & KASHMIR 89
-5.12 POST EXPORT EPCG DUTY CREDIT SCRIP(S) 89
+- 5.00 OBJECTIVE 85
+- 5.01 EPCG SCHEME 85
+- 5.02 COVERAGE 86
+- 5.03 ACTUAL USER CONDITION 87
+- 5.04 EXPORT OBLIGATION (EO) 87
+- 5.05 DELETED 88
+- 5.06 LUT/BOND/BG IN CASE OF AGRO UNITS 88
+- 5.07 INDIGENOUS SOURCING OF CAPITAL GOODS AND BENEFITS TO DOMESTIC SUPPLIER 88
+- 5.08 CALCULATION OF EXPORT OBLIGATION 88
+- 5.09 INCENTIVE FOR EARLY EO FULFILMENT 89
+- 5.10 REDUCED EO FOR GREEN TECHNOLOGY PRODUCTS 89
+- 5.11 REDUCED EO FOR NORTH EAST REGION AND JAMMU & KASHMIR 89
+- 5.12 POST EXPORT EPCG DUTY CREDIT SCRIP(S) 89
 CHAPTER 6 ........................................................................................................ 91
 EXPORT ORIENTED UNITS (EOUS), ELECTRONICS HARDWARE TECHNOLOGY PARKS
 (EHTPS), SOFTWARE TECHNOLOGY PARKS (STPS) AND BIO-TECHNOLOGY PARKS (BTPS)
 ............................................................................................................................................................................. 91
-6.00 INTRODUCTION AND OBJECTIVE 91
-6.01 EXPORT AND IMPORT OF GOODS 91
-6.02 SECOND HAND CAPITAL GOODS 94
-6.03 LEASING OF CAPITAL GOODS 94
-6.04 NET FOREIGN EXCHANGE EARNINGS 95
-6.05 APPLICATIONS & APPROVALS/LETTER OF PERMISSION / LETTER OF INTENT AND LEGAL
+- 6.00 INTRODUCTION AND OBJECTIVE 91
+- 6.01 EXPORT AND IMPORT OF GOODS 91
+- 6.02 SECOND HAND CAPITAL GOODS 94
+- 6.03 LEASING OF CAPITAL GOODS 94
+- 6.04 NET FOREIGN EXCHANGE EARNINGS 95
+- 6.05 APPLICATIONS & APPROVALS/LETTER OF PERMISSION / LETTER OF INTENT AND LEGAL
 UNDERTAKING 95
-6.06 INVESTMENT CRITERIA 96
-6.07 APPLICATIONS & APPROVALS 96
-5
+- 6.06 INVESTMENT CRITERIA 96
+- 6.07 APPLICATIONS & APPROVALS 96
+- 5
+
 
 ---
 
 ## 🔹 Page 12
 
-6.08 DTA SALE OF FINISHED PRODUCTS / REJECTS / WASTE/ SCRAP / REMNANTS AND BY-PRODUCTS 97
-6.09 OTHER SUPPLIES 100
-6.10 EXPORT THROUGH OTHERS 101
-6.11 ENTITLEMENT FOR SUPPLIES FROM THE DTA 101
-6.12 OTHER ENTITLEMENTS 102
-6.13 INTER UNIT TRANSFER 103
-6.14 SUB-CONTRACTING 104
-6.15 SALE OF UNUTILIZED MATERIAL 106
-6.16 RECONDITIONING/REPAIR AND RE - ENGINEERING 107
-6.17 REPLACEMENT / REPAIR OF IMPORTED / INDIGENOUS GOODS 107
-6.18 EXIT FROM EOU SCHEME 108
-6.19 CONVERSION 109
-6.20 MONITORING OF NFE 109
-6.21 EXPORT THROUGH EXHIBITIONS / EXPORT PROMOTION TOURS/ SHOWROOMS ABROAD /DUTY FREE
+- 6.08 DTA SALE OF FINISHED PRODUCTS / REJECTS / WASTE/ SCRAP / REMNANTS AND BY-PRODUCTS 97
+- 6.09 OTHER SUPPLIES 100
+- 6.10 EXPORT THROUGH OTHERS 101
+- 6.11 ENTITLEMENT FOR SUPPLIES FROM THE DTA 101
+- 6.12 OTHER ENTITLEMENTS 102
+- 6.13 INTER UNIT TRANSFER 103
+- 6.14 SUB-CONTRACTING 104
+- 6.15 SALE OF UNUTILIZED MATERIAL 106
+- 6.16 RECONDITIONING/REPAIR AND RE - ENGINEERING 107
+- 6.17 REPLACEMENT / REPAIR OF IMPORTED / INDIGENOUS GOODS 107
+- 6.18 EXIT FROM EOU SCHEME 108
+- 6.19 CONVERSION 109
+- 6.20 MONITORING OF NFE 109
+- 6.21 EXPORT THROUGH EXHIBITIONS / EXPORT PROMOTION TOURS/ SHOWROOMS ABROAD /DUTY FREE
 SHOPS 110
-6.22 PERSONAL CARRIAGE OF IMPORT / EXPORT PARCELS INCLUDING THROUGH FOREIGN BOUND
+- 6.22 PERSONAL CARRIAGE OF IMPORT / EXPORT PARCELS INCLUDING THROUGH FOREIGN BOUND
 PASSENGERS 110
-6.23 EXPORT / IMPORT BY POST / COURIER 110
-6.24 ADMINISTRATION OF EOUS / POWERS OF DC 110
-6.25 REVIVAL OF SICK UNITS 111
-6.26 APPROVAL OF EHTP/ STP 111
-6.27 APPROVAL OF BTP 111
-6.28 WAREHOUSING FACILITIES 111
+- 6.23 EXPORT / IMPORT BY POST / COURIER 110
+- 6.24 ADMINISTRATION OF EOUS / POWERS OF DC 110
+- 6.25 REVIVAL OF SICK UNITS 111
+- 6.26 APPROVAL OF EHTP/ STP 111
+- 6.27 APPROVAL OF BTP 111
+- 6.28 WAREHOUSING FACILITIES 111
 CHAPTER 7 113
 ............................................................................................................................
 DEEMED EXPORTS..........................................................................................................................113
-7.00 OBJECTIVE 113
-7.01 DEEMED EXPORTS 113
-7.02 CATEGORIES OF SUPPLY 113
-7.03 BENEFITS FOR DEEMED EXPORTS 115
-7.04 BENEFITS TO THE SUPPLIER /RECIPIENT 116
-7.05 CONDITIONS FOR REFUND OF TERMINAL EXCISE DUTY 116
-7.06 CONDITIONS FOR REFUND OF DEEMED EXPORT DRAWBACK 117
-7.07 COMMON CONDITIONS FOR DEEMED EXPORT BENEFITS 117
-7.08 BENEFITS ON SPECIFIED SUPPLIES 117
-7.09 LIABILITY OF INTEREST 118
-7.10 RISK MANAGEMENT AND INTERNAL AUDIT MECHANISM 118
-7.11 PENAL ACTION 119
-7.12 TRANSITIONAL PARA 119
+- 7.00 OBJECTIVE 113
+- 7.01 DEEMED EXPORTS 113
+- 7.02 CATEGORIES OF SUPPLY 113
+- 7.03 BENEFITS FOR DEEMED EXPORTS 115
+- 7.04 BENEFITS TO THE SUPPLIER /RECIPIENT 116
+- 7.05 CONDITIONS FOR REFUND OF TERMINAL EXCISE DUTY 116
+- 7.06 CONDITIONS FOR REFUND OF DEEMED EXPORT DRAWBACK 117
+- 7.07 COMMON CONDITIONS FOR DEEMED EXPORT BENEFITS 117
+- 7.08 BENEFITS ON SPECIFIED SUPPLIES 117
+- 7.09 LIABILITY OF INTEREST 118
+- 7.10 RISK MANAGEMENT AND INTERNAL AUDIT MECHANISM 118
+- 7.11 PENAL ACTION 119
+- 7.12 TRANSITIONAL PARA 119
 CHAPTER 8 121
 ............................................................................................................................
 QUALITY COMPLAINTS AND TRADE DISPUTES..................................................................121
-8.00 OBJECTIVE 121
-8.01 QUALITY COMPLAINTS/ TRADE DISPUTES 121
-8.02 OBLIGATION ON THE PART OF IMPORTER/ EXPORTER 121
-8.03 PROVISIONS IN FT (D&R) ACT & FT (REGULATION) RULES FOR NECESSARY ACTION AGAINST ERRING
+- 8.00 OBJECTIVE 121
+- 8.01 QUALITY COMPLAINTS/ TRADE DISPUTES 121
+- 8.02 OBLIGATION ON THE PART OF IMPORTER/ EXPORTER 121
+- 8.03 PROVISIONS IN FT (D&R) ACT & FT (REGULATION) RULES FOR NECESSARY ACTION AGAINST ERRING
 EXPORTERS/ IMPORTERS 122
-8.04 MECHANISM FOR HANDLING OF COMPLAINTS/ DISPUTES 123
-8.05 PROCEEDINGS UNDER CQCTD 123
-8.06 PROCEDURES TO DEAL WITH COMPLAINTS AND TRADE DISPUTES 123
-6
+- 8.04 MECHANISM FOR HANDLING OF COMPLAINTS/ DISPUTES 123
+- 8.05 PROCEEDINGS UNDER CQCTD 123
+- 8.06 PROCEDURES TO DEAL WITH COMPLAINTS AND TRADE DISPUTES 123
+- 6
+
 
 ---
 
 ## 🔹 Page 13
 
-8.07 CORRECTIVE MEASURES 124
-8.08 NODAL OFFICER 124
+- 8.07 CORRECTIVE MEASURES 124
+- 8.08 NODAL OFFICER 124
 CHAPTER 9 125
 ............................................................................................................................
 DEFINITIONS.......................................................................................................................................125
 APPENDIX I (PARA 2.17).......................................................................................................................136
 GLOSSARY (ACRONYMS) 140
 ....................................................................................
-7
+- 7
+
 
 ---
 
 ## 🔹 Page 14
 
-8
+- 8
+
 
 ---
 
@@ -396,23 +406,23 @@ GLOSSARY (ACRONYMS) 140
 CHAPTER 1
 LEGAL FRAMEWORK AND TRADE FACILITATION
 A. LEGAL FRAMEWORK
-1.00 Legal Basis of Foreign Trade Policy (FTP)
+- 1.00 Legal Basis of Foreign Trade Policy (FTP)
 The Foreign Trade Policy, 2015-20, (as updated) w.e.f. 05.12.2017is
 notified by Central Government, in exercise of powers conferred
 under Section 5 of the Foreign Trade (Development & Regulation)
 Act, 1992 (No. 22 of 1992) [FT (D&R) Act], as amended.
-1.01 Duration of FTP
+- 1.01 Duration of FTP
 The Foreign Trade Policy (FTP), 2015-2020,(as updated) w.e.f. 05.12.2017
 incorporating provisions relating to export and import of goods and
 services, shall come into force with effect from the date of notification
 and shall remain in force up to 31st March, 2020, unless otherwise
 specified. All exports and imports made upto the date of notification shall,
 accordingly, be governed by the relevant FTP, unless otherwise specified.
-1.02 Amendment to FTP
+- 1.02 Amendment to FTP
 Central Government, in exercise of powers conferred by Section 5 of FT
 (D&R) Act, 1992, as amended from time to time, reserves the right to make
 any amendment to the FTP, by means of notification, in public interest.
-1.03 Hand Book of Procedures (HBP) and Appendices & Aayat Niryat
+- 1.03 Hand Book of Procedures (HBP) and Appendices & Aayat Niryat
 Forms (AANF)
 Director General of Foreign Trade (DGFT) may, by means of a Public
 Notice, notify Hand Book of Procedures, including Appendices and
@@ -421,20 +431,21 @@ procedure to be followed by an exporter or importer or by any
 Licensing/Regional Authority or by any other authority for purposes
 of implementing provisions of FT (D&R) Act, the Rules and the
 Orders made there under and provisions of FTP.
-1.04 Specific provision to prevail over the general
+- 1.04 Specific provision to prevail over the general
 Where a specific provision is spelt out in the FTP/Hand Book of
 Procedures (HBP), the same shall prevail over the general provision.
-9
+- 9
+
 
 ---
 
 ## 🔹 Page 16
 
-1.05 Transitional Arrangements
+- 1.05 Transitional Arrangements
 (a) Any License / Authorisation / Certificate / Scrip / instrument
 bestowing financial or fiscal benefit issued before
 commencement of FTP, 2015-20 (as updated) w.e.f.
-05.12.2017shall continue to be valid for the purpose and duration
+- 05.12.2017shall continue to be valid for the purpose and duration
 for which it was issued, such License/Authorisation/ Certificate /
 Scrip / any instrument bestowing financial or fiscal benefit
 Authorisation was issued, unless otherwise stipulated.
@@ -453,25 +464,26 @@ Credit with jurisdictional Regional Authority (RA) against
 computerized receipt, within 15 days of the imposition of any
 such restriction or regulation.
 B. TRADE FACILITATION& EASE OF DOING BUSINESS
-1.06 Objective
+- 1.06 Objective
 Trade facilitation is a priority of the Government for cutting down the
 transaction cost and time, thereby rendering Indian exports more
 competitive. The various provisions of FTP and measures taken by the
 Government in the direction of trade facilitation are consolidated under
 this chapter for the benefit of stakeholders of import and export trade.
-1.07 DGFT as a facilitator of exports/imports
+- 1.07 DGFT as a facilitator of exports/imports
 DGFT has a commitment to function as a facilitator of exports and
 imports. Focus is on good governance, which depends on efficient,
 transparent and accountable delivery systems. In order to facilitate
 international trade, DGFT consults various Export Promotion
 Councils as well as Trade and Industry bodies from time to time.
-10
+- 10
+
 
 ---
 
 ## 🔹 Page 17
 
-1.08 Niryat Bandhu - Hand Holding Scheme for new export / import
+- 1.08 Niryat Bandhu - Hand Holding Scheme for new export / import
 entrepreneurs
 (a) DGFT is implementing the Niryat Bandhu Scheme for mentoring
 new and potential exporter on the intricacies of foreign trade
@@ -488,22 +500,23 @@ community to achieve the objective of Niryat Bandhu Scheme.
 Further, in order to ensure optimum utilization of resources,
 efforts would be made to associate all the stakeholders,
 including Customs, ECGC, Banks and concerned Ministries.
-1.09 Citizen’s Charter
+- 1.09 Citizen’s Charter
 DGFT has in place a Citizen’s Charter, giving time schedules for
 providing various services to clients. Time line for disposal of an
 Application is given in Para 9.10 of HBP.
-1.10 Online Complaint Registration and Monitoring System
+- 1.10 Online Complaint Registration and Monitoring System
 An EDI Help Desk is available to assist the exporters in filing online
 applications on the DGFT portal and resolving other EDI related issues. For
 assistance an email may be sent at dgftedi@nic.in or Toll Free number
-1800111550 can be used. Help Desk facility is also operational at the 4 DGFT
+- 1800111550 can be used. Help Desk facility is also operational at the 4 DGFT
 Zonal Offices (details at http://dgft.gov.in). An Online Complaint registration
 and monitoring system allows users to register complaint and receive status/
 reply online (details are at http://dgft.gov.in).
-1.11 Issue of e-IEC (Electronic-Importer Exporter Code)
+- 1.11 Issue of e-IEC (Electronic-Importer Exporter Code)
 (a) Importer Exporter Code (IEC) is mandatory for export/import
 from/to India as detailed in paragraph 2.05 of this Policy. DGFT
-11
+- 11
+
 
 ---
 
@@ -522,7 +535,7 @@ the same shall be rejected and a Rejection letter/email (with
 reasons for rejection) would be sent to the applicant.
 (d) Application for issue of e-IEC can also be made from eBiz
 platform (https://www.ebiz.gov.in).
-1.12 e-BRC
+- 1.12 e-BRC
 (a) One prominent initiative in recent times has been the e-BRC
 (Electronic Bank Realisation Certificate) project and its
 successful implementation by DGFT. It has enabled DGFT to
@@ -534,14 +547,15 @@ schemes without any physical interface with the stake holders.
 Export Data Processing and Monitoring System (EDPMS) for
 monitoring of export of goods and software and facilitating AD
 banks to report various returns through a single platform.
-1.13 MoU with State Governments for sharing of e-BRC data
+- 1.13 MoU with State Governments for sharing of e-BRC data
 MOU has been signed with 14 state governments for sharing of e-BRC
 data to facilitate refund of VAT/GST by the state government to
 exporters. MOU has also been signed with Enforcement Directorate,
 Agricultural Directorate, Agricultural Processed Food Products Export
 Development Authority and Goods & Services Tax Network (GSTN).
-1.14 Exporter Importer Profile
-12
+- 1.14 Exporter Importer Profile
+- 12
+
 
 ---
 
@@ -553,12 +567,12 @@ no need to submit these documents / copies of these documents to
 Regional Authority repeatedly with each application. It intends to
 reduce the transaction cost and time and is a step towards
 paperless processing of different applications in DGFT.
-1.15 Reduction in mandatory documents required for Export and
+- 1.15 Reduction in mandatory documents required for Export and
 Import
 The number of mandatory documents required for exports and
 imports of goods from/into India have been reduced to three each,
 as prescribed under paragraph 2.06 of FTP.
-1.16 Facility of online filing of applications
+- 1.16 Facility of online filing of applications
 All the Regional Authorities (RA) of DGFT and extension counters have been
 networked with high speed internet. The applications are received and
 processed electronically. DGFT under the EDI initiatives has provided the
@@ -574,7 +588,7 @@ with a digital signature and submitted electronically to the concerned
 Regional Authority of DGFT, which are then processed on computer by the
 Regional Authority and Authorisations/ scrip’s are issued. Online filing of
 Application has minimized the physical interface with RA.
-1.17 Online Inter-ministerial consultation
+- 1.17 Online Inter-ministerial consultation
 Presently, the exporters are required to file applications online on the
 website of DGFT under the Icon E-COM and are required to submit the
 duly signed and stamped printout of the online application along with all
@@ -584,7 +598,8 @@ including technical specifications, literature etc in PDF/JPG/JPEG/GIF
 format in the online filing system in respect of (a) Fixation of norms under
 Advance Authorisation by Norms Committees (b) Export of Restricted
 Items (c) Import of Restricted Items (d) SCOMET Items. The exporters
-13
+- 13
+
 
 ---
 
@@ -594,7 +609,7 @@ would not be required to submit the hard copy of application except
 architectural drawings, machine drawings etc which may be difficult
 to scan and upload. The processing of the applications will also be
 done online.
-1.18 Facility to upload documents by CA/ CS / Cost Accountant
+- 1.18 Facility to upload documents by CA/ CS / Cost Accountant
 In order to move towards paperless processing, an electronic procedure
 is being developed to upload digitally signed documents by Chartered
 Accountant / Company Secretary / Cost Accountant. To start with, this
@@ -605,7 +620,7 @@ procedure. Exporter shall link digitally uploaded annexure with his online
 applications after creation of such facility. These facilities may be
 extended in phased manner to upload documents pertaining to other
 schemes like Advance Authorisation, DFIA and EPCG.
-1.19 Electronic Data Interchange (EDI)
+- 1.19 Electronic Data Interchange (EDI)
 DGFT has put in place a robust EDI system for the purpose of export
 facilitation and good governance. DGFT has set up a secured EDI message
 exchange system for various documentation related activities including
@@ -615,7 +630,7 @@ physical interface of exporters and importers with the Government
 Departments and is a significant measure in the direction of reduction of
 transaction cost. The endeavour of DGFT has been to enlarge the scope of
 EDI to achieve higher level of integration with partner departments.
-1.20 Message Exchange with Community partners
+- 1.20 Message Exchange with Community partners
 Customs, Banks, Export Promotion Councils (EPCs) are major community
 partners of DGFT for message exchange. An effective message exchange
 system is in place with various community partners which is as follows:
@@ -625,7 +640,8 @@ system is in place with various community partners which is as follows:
 (iii) Shipping Bills for Duty Free Import Authorisation (DFIA),
 Advance Authorisation (AA), Export Promotion Capital
 Goods (EPCG), Reward Scrips.
-14
+- 14
+
 
 ---
 
@@ -639,11 +655,11 @@ Application for e-IEC.
 (d) Message Exchange with EPCs
 Registration cum Membership Certificate (RCMC) data.
 (e) Message exchange with GSTN and RBI.
-1.21 Encouraging development of Third Party API
+- 1.21 Encouraging development of Third Party API
 DGFT will encourage development of third party software for
 integration with its system to offer users multiple options for
 interfacing with the DGFT.
-1.22 Forthcoming e-Governance Initiatives
+- 1.22 Forthcoming e-Governance Initiatives
 DGFT is currently working on the following EDI initiatives:
 (i) Message exchange for transmission of Bills of Entry (import
 details) from Customs to DGFT.
@@ -654,33 +670,34 @@ CIN & DIN Information.
 (iv) Message exchange with CBDT for PAN.
 (v) Open API for submission of e-IEC Application.
 (vi) Mobile Applications for FTP.
-1.23 Free passage of Export consignment
+- 1.23 Free passage of Export consignment
 Consignments of items meant for exports shall not be withheld/
 delayed for any reason by any agency of Central/ State Government.
 In case of any doubt, authorities concerned may ask for an
 undertaking from exporter and release such consignment.
-15
+- 15
+
 
 ---
 
 ## 🔹 Page 22
 
-1.24 No seizure of export related Stock
+- 1.24 No seizure of export related Stock
 No seizure shall be made by any agency so as to disrupt
 manufacturing activity and delivery schedule of exports. In exceptional
 cases, concerned agency may seize the stock on the basis of prima
 facie evidence of serious irregularity. However, such seizure should be
 lifted within 7 days unless the irregularities are substantiated.
-1.25 24 X 7 Customs clearance
+- 1.25 24 X 7 Customs clearance
 CBEC introduced the facility of 24 X 7 customs clearance in the year 2012
 for facilitated Bills of Entry and factory stuffed container and goods
 exported under free Shipping Bills. At present, this facility is available at
-19 sea port and 17 air cargo complexes. The 24 X 7 Customs clearance
+- 19 sea port and 17 air cargo complexes. The 24 X 7 Customs clearance
 facility has now been extended to all Bills of Entry (not only facilitated
 Bills of Entry) at 19 sea port and 17 Air Cargo Complexes. Further, no
 MOT charges are required to be collected in respect of the services
 provided by the Customs officers at 24 X 7 Customs Ports and Airports.
-1.26 Single Window in Customs
+- 1.26 Single Window in Customs
 Indian Customs has introduced SWIFT (Single Window Interface for
 Facilitating trade) w.e.f. 01.04.2016 for ensuring ease of doing
 business. Under SWIFT, the Importers electronically lodge Integrated
@@ -693,13 +710,14 @@ a. Reduced Cost of doing business;
 b. Enhanced transparency;
 c. Reduced duplicity and cost of compliance;
 d. Optimal utilization of man power.
-16
+- 16
+
 
 ---
 
 ## 🔹 Page 23
 
-1.27 Self-Assessment of Customs Duty
+- 1.27 Self-Assessment of Customs Duty
 (a) Self-Assessment of Customs duty by importers or exporters was
 introduced vide Finance Act, 2011. The system is trust based. The
 objective is to expedite release of imported / export goods. The
@@ -707,7 +725,7 @@ system operates on an electronic Risk Management System (RMS)
 (b) The Finance Act, 2017 has amended Section 47 of the Customs
 Act, 1962 to Authorize an importer to pay duty/tax/cess on the
 date of presentation of self-assessed Bill of Entry.
-1.28 Authorised Economic Operator (AEO) Programme
+- 1.28 Authorised Economic Operator (AEO) Programme
 (a) Based upon WCO’s SAFE Framework of Standards (FoS),
 ‘Authorised Economic Operator (AEO) programme’ has been
 developed by Indian Customs to enable business involved in
@@ -733,7 +751,8 @@ securing supply chain, the benefits include reduction in dwell time
 and consequent cost of doing business. Indian Customs has signed
 MRA with Hong Kong Customs to recognise respective AEO
 Programmes to enable trade to get benefits on reciprocal basis.
-17
+- 17
+
 
 ---
 
@@ -747,38 +766,39 @@ Economic Operator (AEO) Programme wherein extensive
 benefits, including greater facilitation and self-certification,
 have been provided to those entities who have demonstrated
 internal strong control system and compliance with CBEC.
-1.29 Prior filing facility for Shipping Bills
+- 1.29 Prior filing facility for Shipping Bills
 To facilitate processing of shipping bills before actual shipment, prior
 online filing facility for shipping bills has been provided by the Customs -
-7 days for air shipments & ICDs and 14 days for shipments by sea.
-1.30 Cutting down delay in filing of Export General Manifest (EGM)
+- 7 days for air shipments & ICDs and 14 days for shipments by sea.
+- 1.30 Cutting down delay in filing of Export General Manifest (EGM)
 for duty drawback
 To facilitate quicker filing of EGMs and quicker rectification of EGM
 errors, there is a mechanism of monthly monitoring of EGMs by Chief
 Commissioners of Customs to ensure that facilitation does not lag on
 this account (Instruction No. 603/01/2011-DBK dated 31.07.2013).
-1.31 Facility of Common Bond / LUT against Authorisations issued
+- 1.31 Facility of Common Bond / LUT against Authorisations issued
 under different EP Schemes
 CBEC Circular 11(A)/2011-Cus dated 25.02.2011 has provided the
 financial year-wise facility of executing common Bond/LUT against
 Advance Authorisation (AA)/Export Promotion Capital Goods
 (EPCG) Authorisation which is usable across all EDI ports/locations.
-1.32 Exemption from Service Tax on Services received abroad
+- 1.32 Exemption from Service Tax on Services received abroad
 (Deleted)
-1.33 Export of perishable agricultural Products
+- 1.33 Export of perishable agricultural Products
 To reduce transaction and handling costs, a single window system to
 facilitate export of perishable agricultural produce has been introduced.
 The system will involve creation of multi-functional nodal agencies to be
 accredited by Agricultural and Processed Food Products Export
 Development Authority (APEDA), New Delhi. The detailed procedure has
 been notified at Appendix 1C to Appendices & ANFs.
-18
+- 18
+
 
 ---
 
 ## 🔹 Page 25
 
-1.34 Time Release Study (TRS)
+- 1.34 Time Release Study (TRS)
 Customs Authority has decided to undertake ‘Time Release Study’
 (TRS) as per WCO guidelines at major Customs locations on six
 monthly basis. WCO Time Release Study (TRS) is a unique tool and
@@ -787,7 +807,7 @@ underlying objectives of Time Release Study are:
 (i) Identifying bottlenecks in the international supply chain / or
 constraints affecting Customs release.
 (ii) Establishing baseline trade facilitation performance measurement.
-1.35 Towns of Export Excellence (TEE)
+- 1.35 Towns of Export Excellence (TEE)
 (a) Objective: Development and growth of export production
 centres. A number of towns have emerged as dynamic
 industrial clusters contributing handsomely to India’s exports.
@@ -807,13 +827,14 @@ building and technological services.
 entitled for Authorisation under EPCG scheme.
 (c) Notified Towns (TEEs) are listed in Appendix 1 B of
 Appendices & ANFs.
-19
+- 19
+
 
 ---
 
 ## 🔹 Page 26
 
-1.36 DGCI&S, Kolkata as the provider of trade data
+- 1.36 DGCI&S, Kolkata as the provider of trade data
 Director General of Commercial Intelligence and Statistics(DGCI&S) is an
 ISO certified organization under the administrative control of DGFT . It is
 the provider of trade data which is a source of guidance and direction for
@@ -829,14 +850,14 @@ commercially sensitive business data. Transaction level data would not
 be made publicly available to protect privacy. DGCI&S trade data shall be
 made available at aggregate level with a minimum possible time lag on
 commercial criteria. DGCI&S can be visited at http://dgciskol.nic.in.
-1.37 Reducing/eliminating printout in Customs Clearance
+- 1.37 Reducing/eliminating printout in Customs Clearance
 With the aim of ease of doing business and promoting paperless clearance,
 CBEC has done away with routine print-outs of several documents including
-GAR 7 Forms/TR6 Challans, TP copy, Exchange Control copy of Bill of Entry
+- GAR 7 Forms/TR6 Challans, TP copy, Exchange Control copy of Bill of Entry
 and Shipping Bills and Export Promotion copy of Shipping Bill.
 However, hard copy of EP copy of shipping Bill/ Bill of Entry may be
 provided on request only.
-1.38 National Committee on Trade Facilitation (NCTF)
+- 1.38 National Committee on Trade Facilitation (NCTF)
 Consequent to India’s ratification of the WTO Agreement on Trade Facilitation
 (TFA) in April 2016, the National Committee on Trade Facilitation (NCTF) has
 been constituted. The establishment of the Committee is part of mandatory,
@@ -848,7 +869,8 @@ behind setting up the NCTF is to have national level body that will facilitate
 domestic co-ordination and implementation of TFA provisions. It will play the
 lead role in developing the Pan-India road map for trade facilitation. It will be
 instrumental in synergizing the various
-20
+- 20
+
 
 ---
 
@@ -856,22 +878,24 @@ instrumental in synergizing the various
 
 trade facilitation perspectives across the country and will also focus on
 an outreach programmes for sensitization of all stakeholders about TFA.
-1.39 e-mail initiatives
+- 1.39 e-mail initiatives
 CBEC has initiated e-mail notification service to importers for
 information related to all important stages of import clearances.
-1.40 Facility of deferred payment
+- 1.40 Facility of deferred payment
 As a trade facilitation measure, CBEC has introduced facility of deferred
 payment of customs duty. Further, Deferred Payment of Import Duty
 Rules, 2016 have been notified and the same have come into effect from
-16.11.2016. The importers certified under AEO Programme (Tier-two) and
+- 16.11.2016. The importers certified under AEO Programme (Tier-two) and
 (Tier-Three) have been notified for availing the benefit of these Rules.
-21
+- 21
+
 
 ---
 
 ## 🔹 Page 28
 
-22
+- 22
+
 
 ---
 
@@ -879,10 +903,10 @@ Rules, 2016 have been notified and the same have come into effect from
 
 CHAPTER 2
 GENERAL PROVISIONS REGARDING IMPORTS AND EXPORTS
-2.00 Objective
+- 2.00 Objective
 The general provisions governing import and export of goods and
 services are dealt with in this chapter.
-2.01 Exports and Imports – ‘Free’, unless regulated
+- 2.01 Exports and Imports – ‘Free’, unless regulated
 (a) Exports and Imports shall be ‘Free’ except when regulated by
 way of ‘prohibition’, ‘restriction’ or ‘exclusive trading through
 State Trading Enterprises (STEs)’ as laid down in Indian Trade
@@ -892,7 +916,7 @@ be viewed by clicking on ‘Downloads’ at http://dgft.gov.in
 (b) Further, there are some items which are ‘free’ for import/export,
 but subject to conditions stipulated in other Acts or in law for the
 time being in force.
-2.02 Indian Trade Classification (Harmonised System) [ITC (HS)] of
+- 2.02 Indian Trade Classification (Harmonised System) [ITC (HS)] of
 Exports and Imports.
 (a) ITC (HS) is a compilation of codes for all merchandise / goods for
 export/ import. Goods are classified based on their group or sub-
@@ -902,7 +926,8 @@ System goods nomenclature maintained by World Customs
 Organization (http://www.wcoomd.org). However, India maintains
 national Harmonized System of goods at 8 digit level which may
 be viewed by clicking on ‘Downloads’ at http://dgft.gov.in
-23
+- 23
+
 
 ---
 
@@ -915,7 +940,7 @@ regime while Schedule 2 of ITC (HS) details the Export Policy regime.
 Import Policy is for new goods and not for th e Second Hand
 goods. For Second Hand goods, the Import Policy regime is
 given in Para 2.31 in this FTP.
-2.03 Compliance of Imports with Domestic Laws
+- 2.03 Compliance of Imports with Domestic Laws
 (a) Domestic Laws/ Rules/ Orders/ Regulations/ technical
 specifications/ environmental/safety and health norms applicable
 to domestically produced goods shall apply, mutatis mutandis, to
@@ -923,15 +948,16 @@ imports, unless specifically exempted.
 (b) However, Goods to be utilized/ consumed in manufacture of
 export products, as notified by DGFT, may be exempted from
 domestic standards/ quality specifications.
-2.04 Authority to specify Procedures
+- 2.04 Authority to specify Procedures
 DGFT may, specify Procedures to be followed by an exporter or importer
 or by any licensing/Regional Authority (RA) or by any other authority for
 purposes of implementing provisions of FT (D&R) Act, the Rules and the
 Orders made there under and FTP. Such procedures, or amendments if
 any, shall be published by means of a Public Notice.
 Importer-Exporter Code/e-IEC
-2.05 Importer-Exporter Code (IEC)
-24
+- 2.05 Importer-Exporter Code (IEC)
+- 24
+
 
 ---
 
@@ -968,7 +994,8 @@ http://dgft.gov.in/exim/2000/iec_anf/iecanf.htm
 (II) No Export/Import without IEC:
 (i) No export or import shall be made by any person without
 obtaining an IEC number unless specifically exempted.
-25
+- 25
+
 
 ---
 
@@ -976,19 +1003,19 @@ obtaining an IEC number unless specifically exempted.
 
 (ii) Exempt categories and corresponding permanent IEC numbers
 are given in Para 2.07 of Handbook of Procedures.
-2.06 Mandatory documents for export/import of goods from/into
+- 2.06 Mandatory documents for export/import of goods from/into
 India:
 (a) Mandatory documents required for export of goods from India:
-1. Bill of Lading/ Airway Bill/ Lorry Receipt/
+- 1. Bill of Lading/ Airway Bill/ Lorry Receipt/
 Railway Receipt/Postal Receipt
-2. Commercial Invoice cum Packing List*
-3.Shipping Bill/Bill of Export/ Postal Bill of Export
+- 2. Commercial Invoice cum Packing List*
+- 3.Shipping Bill/Bill of Export/ Postal Bill of Export
 (b) Mandatory documents required for import of goods into India
-1. Bill of Lading/Airway Bill/Lorry Receipt/ Railway
+- 1. Bill of Lading/Airway Bill/Lorry Receipt/ Railway
 Receipt/Postal Receipt in form CN-22 or CN 23 as
 the case may be.
-2. Commercial Invoice cum Packing List*
-3. Bill of Entry
+- 2. Commercial Invoice cum Packing List*
+- 3. Bill of Entry
 [Note: *(i) As per CBEC Circulars issued under the Customs Act, 1962
 (ii) Separate Commercial Invoice and Packing List
 would also be accepted.]
@@ -1001,7 +1028,8 @@ additional documents for purposes of export or import.
 authority concerned may electronically or in writing seek
 additional documents or information, as deemed
 necessary to ensure legal compliance.
-26
+- 26
+
 
 ---
 
@@ -1009,7 +1037,7 @@ necessary to ensure legal compliance.
 
 (e) The above stipulations are effective from 1 April, 2015.
 st
-2.07 Principles of Restrictions
+- 2.07 Principles of Restrictions
 DGFT may, through a Notification, impose restrictions on export and
 import, necessary for: -
 (a) Protection of public morals;
@@ -1024,17 +1052,18 @@ archaeological value;
 which they are derived;
 (h) Prevention of traffic in arms, ammunition and implements of war
 (i) Relating to the importation or exportation of gold or silver.
-2.08 Export/Import of Restricted Goods/Services
+- 2.08 Export/Import of Restricted Goods/Services
 Any goods /service, the export or import of which is ‘Restricted’ may
 be exported or imported only in accordance with an Authorisation /
 Permission or in accordance with the Procedures prescribed in a
 Notification / Public Notice issued in this regard.
-2.09 Export of SCOMET Items
+- 2.09 Export of SCOMET Items
 Export of Special Chemicals, Organisms, Materials, Equipment and
 Technologies (SCOMET), as indicated in Appendix-3 of Schedule 2 of ITC(HS)
 Classification of Export & Import Items, shall be governed by the specific
 provisions of (i) Chapter IV A of the FT(D&R) Act, 1992 as amended from
-27
+- 27
+
 
 ---
 
@@ -1042,15 +1071,15 @@ provisions of (i) Chapter IV A of the FT(D&R) Act, 1992 as amended from
 
 time to time (ii) Sl. No. 4 & 5 of Table A and Appendix-3 of Schedule 2
 of ITC(HS) Classification of Export & Import Items (iii) Para 2.16, Para
-2.17, Para 2.18 of FTP and (iv) Para 2.73 -2.82 of Hand Book of
+- 2.17, Para 2.18 of FTP and (iv) Para 2.73 -2.82 of Hand Book of
 Procedures, in addition to the other provisions of FTP and Handbook
 of Procedures governing export Authorisations.
-2.10 Actual User Condition
+- 2.10 Actual User Condition
 Goods which are importable freely without any ‘Restriction’ may be
 imported by any person. However, if such imports require an
 Authorisation, actual user alone may import such good(s) unless
 actual user condition is specifically dispensed with by DGFT.
-2.11 Terms and Conditions of an Authorisation
+- 2.11 Terms and Conditions of an Authorisation
 Every Authorisation shall, inter alia, include either all or some of the
 following terms and conditions (as applicable in terms of the para
 under which the Authorisation has been issued), in addition to such
@@ -1064,10 +1093,11 @@ other conditions as may be specified:
 Authority/RA (as in para 2. 35 of FTP).
 (g) Validity period of import/export as specified in Handbook of
 Procedures.
-2.12 Application Fee
+- 2.12 Application Fee
 Application for IEC/ Authorisation / License / Scrips must be accompanied
 by application fees as indicated in the Appendix 2K of Appendices and Aayat
-28
+- 28
+
 
 ---
 
@@ -1075,7 +1105,7 @@ by application fees as indicated in the Appendix 2K of Appendices and Aayat
 
 Niryat Forms. Fees must be paid online through electronic fund transfer
 (EFT) mechanism or through Credit/Debit Cards, unless provided otherwise.
-2.13 Clearance of Goods from Customs against Authorisation
+- 2.13 Clearance of Goods from Customs against Authorisation
 Goods already imported / shipped / arrived, in advance, but not cleared
 from Customs may also be cleared against an Authorisation issued
 subsequently. However, such goods already imported/shipped/arrived,
@@ -1083,11 +1113,11 @@ in advance are first warehoused against Bill of Entry for Warehousing
 and then cleared for home consumption against an Authorisation
 issued subsequently. This facility will however be not available to
 “restricted” items or items traded through STEs.
-2.14 Authorisation - not a Right
+- 2.14 Authorisation - not a Right
 No person can claim an Authorisation as a right and DGFT or RA shall
 have power to refuse to grant or renew the same in accordance with
 provisions of FT (D&R) Act, Rules made there under and FTP.
-2.15 Penal action and placing of an entity in Denied Entity List (DEL)
+- 2.15 Penal action and placing of an entity in Denied Entity List (DEL)
 a) If an Authorisation holder violates any condition of such
 Authorisation or fails to fulfill export obligation, or fails to deposit
 the requisite amount within the period specified in demand notice
@@ -1099,7 +1129,8 @@ DGFT has provided for self certification system under various schemes.
 In such cases, applicants shall undertake self certification with sufficient
 care and caution in filling up information/particulars. Any
 information/particulars subsequently found untrue/incorrect will be
-29
+- 29
+
 
 ---
 
@@ -1109,7 +1140,7 @@ liable for action under FTDR Act, 1992 and Rules therein in
 addition to penal action under any other Act/Order.
 c) A firm may be placed under Denied Entity List (DEL), by the concerned
 RA, under the provision of Rule 7 of Foreign Trade (Regulation) Rules,
-1993. On issuance of such an order, for reasons to be recorded in
+- 1993. On issuance of such an order, for reasons to be recorded in
 writing, a firm may be refused grant or renewal of a license, certificate,
 scrip or any instrument bestowing financial or fiscal benefits. If a firm
 is placed under DEL all new licences, scrips, certificates, instruments
@@ -1123,16 +1154,17 @@ Obligation/ pays penalty/ fulfils requirement of Demand Notice(s)
 issued by the RA/submits documents required by the RA.
 Prohibitions (Country, Organisations, Groups, Individuals etc. and
 Product Specific):
-2.16 Prohibition on Import and Export of ‘Arms and related
+- 2.16 Prohibition on Import and Export of ‘Arms and related
 material’ from / to Iraq
 Notwithstanding the policy on Arms and related materials in Chapter
-93 of ITC(HS), the import/export of Arms and related material from/to
+- 93 of ITC(HS), the import/export of Arms and related material from/to
 Iraq is ‘Prohibited’. However, export of Arms and related material to
 Government of Iraq shall be permitted subject to ‘No Objection
 Certificate’ from the Department of Defence Production.
-2.16 A Prohibition on Trade with the Islamic State in Iraq and the
+- 2.16 A Prohibition on Trade with the Islamic State in Iraq and the
 Levant [ISIL, also known as Daesh], Al Nusrah Front [ANF]
-30
+- 30
+
 
 ---
 
@@ -1141,45 +1173,46 @@ Levant [ISIL, also known as Daesh], Al Nusrah Front [ANF]
 and other individuals, groups, undertakings and entities
 associated with Al Qaida.
 In compliance with United Nations Security Council Resolution No. 2199
-[2015] (full text of the Resolution is available at
+- [2015] (full text of the Resolution is available at
 http://www.un.org/press/en/2015/ sc11775.doc.htm), trade in oil and
 refined oil products, modular refineries and related materials, besides
 items of cultural (including antiquities), scientific and religious
 importance is prohibited with the Islamic State in Iraq and the Levant
 [ISIL], Al Nusrah Front [ANF] and other individuals, groups, undertakings
 and entities associated, directly or indirectly, with Al Qaida.
-2.17 Prohibition on direct or indirect import and export from/to
+- 2.17 Prohibition on direct or indirect import and export from/to
 DPRK
 Direct or Indirect export and import of items, whether or not
 originating in Democratic People’s Republic of Korea (DPRK) to/from
 DPRK is detailed in Appendix – I of FTP.
-2.18 Direct or Indirect Export/Import to/from Iran
+- 2.18 Direct or Indirect Export/Import to/from Iran
 (a) Direct or indirect export to Iran or import from Iran of any item, material,
 equipment, goods and technology mentioned in the following documents
 would be permitted subject to the provisions contained in Annex-B to the
 United Nations Security Council Resolution 2231 (2015):
 (i) Items listed in INFCIRC/254/Rev.9/Part 1 and INFCIRC /
-254/Rev.7 /Part 2 (IAEA Documents) as updated by the IAEA
+- 254/Rev.7 /Part 2 (IAEA Documents) as updated by the IAEA
 from time to time.
 (ii) Items listed in S/2006/263 (UN Security Council document) as
 updated by the Security Council from time to time.
 (b) All the UN Security Council Resolutions/Documents and IAEA
 Documents referred to above are available on the UN Security Council
 website (www.un.org/Docs/sc) and IAEA website (www.iaea.org).
-31
+- 31
+
 
 ---
 
 ## 🔹 Page 38
 
-2.19 Prohibition on Import of Charcoal from Somalia
+- 2.19 Prohibition on Import of Charcoal from Somalia
 Direct or indirect import of charcoal is prohibited from Somalia,
 irrespective of whether or not such charcoal has originated in Somalia
 [United Nations Security Council Resolution 2036 (2012)]. Importers of
 Charcoal shall submit a declaration to Customs that the consignment
 has not originated in Somalia.
 Import / Export through State Trading Enterprises:
-2.20 State Trading Enterprises (STEs)
+- 2.20 State Trading Enterprises (STEs)
 (a) State Trading Enterprises (STEs) are governmental and non-
 governmental enterprises, including marketing boards, which deal
 with goods for export and /or import. Any good, import or export of
@@ -1199,34 +1232,36 @@ for participation in such purchases or sales.
 person to import or export any of the goods notified for
 exclusive trading through STEs.
 Trade with Specific Countries:
-32
+- 32
+
 
 ---
 
 ## 🔹 Page 39
 
-2.21 Trade with Neighbouring Countries
+- 2.21 Trade with Neighbouring Countries
 DGFT may issue instructions or frame schemes as may be required to
 promote trade and strengthen economic ties with neighboring countries.
-2.22 Transit Facility
+- 2.22 Transit Facility
 Transit of goods through India from/ or to countries adjacent to India
 shall be regulated in accordance with bilateral treaties between India
 and those countries and will be subject to such restrictions as may be
 specified by DGFT in accordance with International Conventions.
-2.23 Trade with Russia under Debt-Repayment Agreement
+- 2.23 Trade with Russia under Debt-Repayment Agreement
 In case of trade with Russia under Debt Repayment Agreement, DGFT
 may issue instructions or frame schemes as may be required, and
 anything contained in FTP, in so far as it is inconsistent with such
 instructions or schemes, shall not apply.
 Import of Specific Categories of Goods:
-2.24 Import of Samples
+- 2.24 Import of Samples
 Import of samples shall be governed by Para 2.65 of Handbook of Procedures.
-2.25 Import of Gifts
+- 2.25 Import of Gifts
 Import of gifts shall be ‘free’ where such goods are otherwise freely
 importable under ITC (HS). In other cases, such imports shall be
 permitted against an Authorisation issued by DGFT.
-2.26 Passenger Baggage
-33
+- 2.26 Passenger Baggage
+- 33
+
 
 ---
 
@@ -1242,34 +1277,35 @@ an Authorisation.
 drawings, patterns, labels, price tags, buttons, belts, trimming
 and embellishments required for export, as part of their
 passenger baggage without an Authorisation.
-2.27 Re – import of goods repaired abroad
+- 2.27 Re – import of goods repaired abroad
 Capital goods, equipments, components, parts and accessories, whether
 imported or indigenous, except those restricted under ITC (HS) may be
 sent abroad for repairs, testing, quality improvement or upgradation or
 standardization of technology and re-imported without an Authorisation.
-2.28 Import of goods used in projects abroad
+- 2.28 Import of goods used in projects abroad
 Project contractors after completion of projects abroad, may import
 without an Authorisation, goods including capital goods used in the
 project, provided they have been used for at least one year.
-2.29 Import of Prototypes
+- 2.29 Import of Prototypes
 Import of new / second hand prototypes / second hand samples may
 be allowed on payment of duty without an Authorisation to an Actual
 User (industrial) engaged in production of or having industrial license /
 letter of intent for research in item for which prototype is sought for
 product development or research, as the case may be, upon a self-
 declaration to that effect, to satisfaction of customs authorities
-34
+- 34
+
 
 ---
 
 ## 🔹 Page 41
 
-2.30 Import through courier service/Post
+- 2.30 Import through courier service/Post
 Imports through a registered courier service or post are permitted as per
 Notification(s) issued under the Customs Act, 1962. However, importability
 of such items shall be regulated in accordance with FTP/ ITC (HS), 2017.
 Import Policy for Second Hand Goods:
-2.31 Second Hand Goods
+- 2.31 Second Hand Goods
 S.No Categories of Second Import Conditions, if any
 Hand Goods Policy
 I Second Hand Capital Goods
@@ -1291,7 +1327,8 @@ of original spare.
 (c) All other second hand Free
 capital goods {other than
 (a) & (b) above}
-35
+- 35
+
 
 ---
 
@@ -1300,7 +1337,7 @@ capital goods {other than
 II Second Hand Goods other Restricted Importable against
 than capital goods Authorisation
 Import Policy for Metallic Waste and Scraps:
-2. 32 Import of Metallic waste and Scrap
+- 2. 32 Import of Metallic waste and Scrap
 (a) Import of any form of metallic waste, scrap will be subject to the
 condition that it will not contain hazardous, toxic waste, radioactive
 contaminated waste/scrap containing radioactive material, any
@@ -1311,21 +1348,22 @@ detailed in Para 2.54 of Handbook of Procedures.
 freely, and the Procedures of import in the shredded form;
 unshredded compressed and loose form is laid down in Para 2.54
 of Handbook of Procedures.
-2.33 Removal of Scrap/waste from SEZ
+- 2.33 Removal of Scrap/waste from SEZ
 A SEZ unit/Developer/ Co-developer may be allowed to dispose of in
 DTA any waste or scrap, including any form of metallic waste and
 scrap, generated during manufacturing or processing activity, without
 an Authorisation, on payment of applicable Customs Duty.
 Other Provisions Related to Imports:
-2.34 Import under Lease Financing
+- 2.34 Import under Lease Financing
 No specific permission of RA is required for lease financed capital goods.
-36
+- 36
+
 
 ---
 
 ## 🔹 Page 43
 
-2.35 Execution of Legal Undertaking (LUT) / Bank Guarantee (BG)
+- 2.35 Execution of Legal Undertaking (LUT) / Bank Guarantee (BG)
 (a) Wherever any duty free import is allowed or where otherwise
 specifically stated, importer shall execute, Legal Undertaking (LUT)
 / Bank Guarantee (BG) / Bond with the Customs Authority, as
@@ -1334,10 +1372,10 @@ prescribed, before clearance of goods.
 LUT/BG/Bond to RA concerned before sourcing material from
 indigenous supplier/nominated agency as prescribed in Chapter 2
 of Handbook of Procedures.
-2.36 Private/Public Bonded Warehouses for Imports
+- 2.36 Private/Public Bonded Warehouses for Imports
 (a) Private/ Public bonded warehouses may be set up in DTA as per
 rules, regulations and notifications issued under the Customs Act,
-1962. Any person may import goods except prohibited items, arms
+- 1962. Any person may import goods except prohibited items, arms
 and ammunition, hazardous waste and chemicals and warehouse
 them in such bonded warehouses.
 (b) Such goods may be cleared for home consumption in accordance with
@@ -1345,34 +1383,35 @@ provisions of FTP and against Authorisation, wherever required. Customs
 duty as applicable shall be paid at the time of clearance of such goods.
 (c) The clearance of the warehoused goods shall be as per the
 provisions of the Customs Act, 1962.
-2.37 Special provision for Hides Skins and semi-finished goods
+- 2.37 Special provision for Hides Skins and semi-finished goods
 Hides, Skins and semi-finished leather may be imported in the Public/
 Private Bonded warehouse for the purpose of DTA sale and the unsold
 items thereof can be re-exported from such bonded warehouses on
 payment of the applicable rate of export duty.
-37
+- 37
+
 
 ---
 
 ## 🔹 Page 44
 
-2.38 Sale on High Seas
+- 2.38 Sale on High Seas
 Sale of goods on high seas for import into India may be made subject
 to FTP or any other law in force.
 Exports:
-2.39 Free Exports
+- 2.39 Free Exports
 All goods may be exported without any restriction except to the extent that
 such exports are regulated by ITC (HS) or any other provision of FTP or any
 other law for the time being in force. DGFT may, however, specify through a
 public notice such terms and conditions according to which any goods, not
 included in ITC (HS), may be exported without an Authorisation.
-2.40 Deleted
-2.41 Benefits for Supporting Manufacturers
+- 2.40 Deleted
+- 2.41 Benefits for Supporting Manufacturers
 For any benefit to accrue to the supporting manufacturer (as defined in
 Para 9.58 of FTP), the names of both supporting manufacturer as well as
 the merchant exporter must figure in the concerned export documents,
 especially in ARE-1 / ARE-3 / Shipping Bill / Bill of Export/ Airway Bill.
-2.42 Third Party Exports
+- 2.42 Third Party Exports
 Third party exports (except Deemed Export) as defined in Chapter 9 shall be
 allowed under FTP. In such cases, export documents such as shipping bill
 shall indicate name of both manufacturing exporter/manufacturer and third
@@ -1380,21 +1419,22 @@ party exporter(s). Bank Realization Certificate (BRC), Export Order and
 Invoice should be in the name of third party exporter.
 .
 Exports of Specific Categories:
-38
+- 38
+
 
 ---
 
 ## 🔹 Page 45
 
-2.43 Export of Samples
+- 2.43 Export of Samples
 Export of Samples and Free of charge goods shall be governed by
 provisions given in Para 2.66 of Handbook of Procedures.
-2.44 Export of Gifts
+- 2.44 Export of Gifts
 Goods including edible items, of value not exceeding Rs.5,00,000/- in a
 licensing year, may be exported as a gift. However, items mentioned as
 restricted for exports in ITC (HS) shall not be exported as a gift,
 without an Authorisation.
-2.45 Export of Passenger Baggage
+- 2.45 Export of Passenger Baggage
 (a) Bona-fide personal baggage may be exported either along with passenger
 or, if unaccompanied, within one year before or after passenger's
 departure from India. However, items mentioned as restricted in ITC (HS)
@@ -1406,12 +1446,13 @@ to Baggage Rules issued under Customs Act, 1962.
 (b) Samples of such items that are otherwise freely exportable under
 FTP may also be exported as part of passenger baggage without
 an Authorisation.
-2.46 Import for export
+- 2.46 Import for export
 I. (a) Goods imported, in accordance with FTP, may be exported in
 same or substantially the same form without an Authorisation
 provided that item to be imported or exported is not in the
 restricted for import or export in ITC (HS).
-39
+- 39
+
 
 ---
 
@@ -1445,7 +1486,8 @@ Customs Act, 1962.
 II. (a) Goods imported against payment in freely convertible currency
 would be permitted for export only against payment in freely
 convertible currency, unless otherwise notified by DGFT.
-40
+- 40
+
 
 ---
 
@@ -1456,33 +1498,34 @@ Iran) would be permitted against payment in Indian Rupees,
 subject to minimum 15% value addition.
 (c) However, re-export of food, medicine and medical equipments,
 namely, items covered under ITC(HS) Chapters 2 to 4, 7 to 11, 15 to
-21, 23, 30 and items under headings 9018, 9019, 9020, 9021 & 9022
+- 21, 23, 30 and items under headings 9018, 9019, 9020, 9021 & 9022
 of Chapter-90 of ITC(HS) will not be subject to minimum value
 addition requirement for export to Iran. Exports of these items to
 Iran shall, however, be subject to all other conditions of FTP 2015-
-20 and ITC (HS) 2017, as applicable. Bird’s eggs covered under ITC
+- 20 and ITC (HS) 2017, as applicable. Bird’s eggs covered under ITC
 (HS) 0407 & 0408 and Rice covered under ITC (HS) 1006 are not
 covered under this dispensation, as at II (a) above.
 (d) Exports under this dispensation, as at I (e) and II (a), (b) and (c)
 above shall not be eligible for any export incentives.
-2.47 Export through Courier Service/Post
+- 2.47 Export through Courier Service/Post
 Exports through a registered courier service is permitted as per
 Notification issued by DoR. However, exportability of such items shall
 be regulated in accordance with FTP/ ITC (HS), 2017.
-2.48 Export of Replacement Goods
+- 2.48 Export of Replacement Goods
 Goods or parts thereof on being exported and found defective/damaged or
 otherwise unfit for use may be replaced free of charge by the exporter and
 such goods shall be allowed for export by Customs authorities, provided
 that replacement goods are not mentioned as restricted/SCOMET items for
 exports in ITC (HS). If the export item is ‘restricted’/ under SCOMET, the
 exporter shall require a export license for replacement.
-41
+- 41
+
 
 ---
 
 ## 🔹 Page 48
 
-2.49 Export of Repaired Goods
+- 2.49 Export of Repaired Goods
 Goods or parts thereof, except restricted under ITC (HS), on being
 exported and found defective, damaged or otherwise unfit for use may
 be imported for repair and subsequent re-export. Such goods shall be
@@ -1494,22 +1537,23 @@ However, re-export of such defective parts/spares by the
 Companies/firms and Original Equipment Manufacturers shall not be
 mandatory if they are imported exclusively for undertaking root cause
 analysis, testing and evaluation purpose.”
-2.50 Export of Spares
+- 2.50 Export of Spares
 Warranty spares (whether indigenous or imported) of plant, equipment,
 machinery, automobiles or any other goods [except those restricted under
 ITC (HS)] may be exported along with main equipment or subsequently but
 within contracted warranty period of such goods, subject to approval of RBI.
-2.50A Re-export of imported Goods found defective and unsuitable
+- 2.50A Re-export of imported Goods found defective and unsuitable
 for use:
 Imported goods found defective after Customs clearance, or not found
 as per specifications or requirements may be re-exported back as per
 Customs Act, 1962.
-2.51 Private Bonded Warehouses for Exports
+- 2.51 Private Bonded Warehouses for Exports
 (a) Private bonded warehouses exclusively for exports may be set up in
 DTA as per terms and conditions of notifications issued by DoR.
 (b) Such warehouses shall be entitled to procure goods from domestic
 manufacturers without payment of duty. Supplies made by a
-42
+- 42
+
 
 ---
 
@@ -1519,7 +1563,7 @@ domestic supplier to such notified warehouses shall be
 treated as physical exports provided payments are made
 in free foreign exchange.
 Payments and Receipts on Imports / Exports:
-2.52 Denomination of Export Contracts
+- 2.52 Denomination of Export Contracts
 (a) All export contracts and invoices shall be denominated either in
 freely convertible currency or Indian rupees but export proceeds
 shall be realized in freely convertible currency.
@@ -1540,19 +1584,20 @@ in ACU Euro as per RBI Notifications. Central Government may relax
 provisions of this paragraph in appropriate cases. Export contracts
 and invoices can be denominated in Indian rupees against EXIM
 Bank/Government of India line of credit.
-2.53 Export to Iran –Realisations in Indian Rupees to be eligible for
+- 2.53 Export to Iran –Realisations in Indian Rupees to be eligible for
 FTP benefits / incentives
 Notwithstanding the provisions contained in para 2.52 (a) above, export
 proceeds realized in Indian Rupees against exports to Iran are permitted to
-43
+- 43
+
 
 ---
 
 ## 🔹 Page 50
 
 avail exports benefits / incentives under the Foreign Trade Policy (2015-
-20), at par with export proceeds realized in freely convertible currency.
-2.54 Non-Realisation of Export Proceeds
+- 20), at par with export proceeds realized in freely convertible currency.
+- 2.54 Non-Realisation of Export Proceeds
 (a) If an exporter fails to realize export proceeds within time
 specified by RBI, he shall, without prejudice to any liability or penalty
 under any law in force, be liable to return all benefits / incentives
@@ -1563,8 +1608,8 @@ beyond his control (force-majeure), he may approach RBI for writing off the
 unrealised amount as laid down in Para 2.87 of Handbook of Procedures.
 (c) The payment realized through insurance cover, would be
 eligible for benefits under FTP as per Procedures laid down in Para
-2.85 of Handbook of Procedures.
-2.54A Export Credit Agencies (ECAs)
+- 2.85 of Handbook of Procedures.
+- 2.54A Export Credit Agencies (ECAs)
 (i) Export Credit Agencies (ECAs) are policy instrument for Government
 to support exports. ECAs support exports by insurance, guarantee and
 also direct lending. Export Credit Agencies (ECAs) like Export Credit
@@ -1579,7 +1624,8 @@ ECA in the business of lending for MLT exports and fronting the
 government’s line of credit.
 (ii) ECGC indemnifies losses of exporters in export trade due to
 insolvency or default of the buyer. Additionally losses due to political
-44
+- 44
+
 
 ---
 
@@ -1591,7 +1637,7 @@ anti- dumping measures or non-tariff barriers introduced after a
 shipment has been made will come under the purview of the political
 risk. In such cases exporter’s interest are protected by ECGC.
 Export Promotion Councils:
-2.55 Recognition of EPCs to function as Registering Authority for
+- 2.55 Recognition of EPCs to function as Registering Authority for
 issue of RCMC
 (a) Export Promotion Councils (EPCs) are organizations of exporters,
 set up with the objective to promote and develop Indian exports.
@@ -1601,8 +1647,8 @@ products/ projects/services as given in Appendix 2T of AANF.
 issue Registration-cum-Membership Certificate (RCMC) to its
 members. The criteria for EPCs to be recognized as Registering
 Authorities for issue of RCMC to its members are detailed in Para
-2.92 of the Handbook of Procedures.
-2.56 Registration-cum-Membership Certificate (RCMC)
+- 2.92 of the Handbook of Procedures.
+- 2.56 Registration-cum-Membership Certificate (RCMC)
 Any person, applying for:
 (a) An Authorisation to import/export (except items) listed as
 ‘Restricted’ items in ITC (HS)
@@ -1613,7 +1659,8 @@ granted by competent authority in accordance with Procedures
 specified in Handbook of Procedures unless specifically exempted
 under FTP. Certificate of Registration as Exporter of Spices (CRES)
 issued by Spices Board and Certificate of Registration as
-45
+- 45
+
 
 ---
 
@@ -1623,7 +1670,7 @@ Exporter of coir & coir products issued by the Coir Board shall be
 treated as Registration-Cum-Membership Certificate (RCMC) for
 the purposes under this Policy.
 Policy Interpretation and Relaxations:
-2.57 Interpretation of Policy
+- 2.57 Interpretation of Policy
 (a) The decision of DGFT shall be final and binding on all matters
 relating to interpretation of Policy, or provision in Handbook of
 Procedures, Appendices and Aayat Niryat Forms or classification
@@ -1637,7 +1684,7 @@ matters: Members
 (iv) Joint DGFT (PRC/PIC): Member Secretary
 (v) Any other person / representative of the concerned Ministry
 / Department, to be co-opted by the Chairman.
-2.58 Exemption from Policy/Procedures
+- 2.58 Exemption from Policy/Procedures
 DGFT may in public interest pass such orders or grant such exemption,
 relaxation or relief, as he may deem fit and proper, on grounds of genuine
 hardship and adverse impact on trade to any person or class or category
@@ -1647,7 +1694,8 @@ after consulting the Committees as under:
 Sl. No. Description Committee
 (a) Fixation / modification of product Norms Committees
 norms
-46
+- 46
+
 
 ---
 
@@ -1658,7 +1706,7 @@ norms
 Schemes
 (c) All other issues Policy Relaxation
 Committee (PRC)
-2.59 Personal Hearing by DGFT for Grievance Redressal
+- 2.59 Personal Hearing by DGFT for Grievance Redressal
 (a) Government is committed to easy and speedy redressal of
 grievances from Trade and Industry. Paragraph 2.58 of FTP
 provides for relaxation of Policy and Procedures on grounds of
@@ -1677,21 +1725,22 @@ decision/order made in any proceeding, including an adjudication
 proceeding, whether at the original stage or at the appellate
 stage, under the relevant provisions of FT (D&R) Act, 1992, as
 amended from time to time.
-2.60 Regularization of EO default and settlement of Customs
+- 2.60 Regularization of EO default and settlement of Customs
 duty and interest through Settlement Commission
 With a view to providing assistance to firms who have defaulted under
 FTP for reasons beyond their control as also facilitating merger,
 acquisition and rehabilitation of sick units, it has been decided to
 empower Settlement Commission in Department of Revenue to decide
 such cases also with effect from 01.04.2005.
-47
+- 47
+
 
 ---
 
 ## 🔹 Page 54
 
 Self Certification of Originating Goods:
-2.61 Approved Exporter Scheme for Self Certification of Certificate
+- 2.61 Approved Exporter Scheme for Self Certification of Certificate
 of Origin.
 (i) Currently, Certificates of Origin under various Preferential Trade
 Agreements [PTA], Free Trade Agreements [FTAs], Comprehensive
@@ -1718,11 +1767,12 @@ provided in Appendix 2F of Appendices and Aayaat Niryat Forms
 and will come into effect only when India incorporates the
 scheme into a specific agreement with its partner/s and the same
 is appropriately notified by DGFT.
-2.62 Certification of Origin of Goods EU-GSP
+- 2.62 Certification of Origin of Goods EU-GSP
 Exporters can self-certify the Statement on Origin of their goods, as
 per the self-certification scheme , Certification of Origin of Goods for
 European Union Generalised System of Preferences (EU-GSP) , of the
-48
+- 48
+
 
 ---
 
@@ -1730,13 +1780,15 @@ European Union Generalised System of Preferences (EU-GSP) , of the
 
 European Union (EU) under the Registered Exporter System
 (REX) as in Para 2.104 (c) of the Handbook of Procedures.
-49
+- 49
+
 
 ---
 
 ## 🔹 Page 56
 
-50
+- 50
+
 
 ---
 
@@ -1744,15 +1796,15 @@ European Union (EU) under the Registered Exporter System
 
 CHAPTER 3
 EXPORTS FROM INDIA SCHEMES
-3.00 Objective
+- 3.00 Objective
 The objective of schemes under this chapter is to provide rewards to
 exporters to offset infrastructural inefficiencies and associated costs.
-3.01 Exports from India Schemes
+- 3.01 Exports from India Schemes
 There shall be following two schemes for exports of Merchandise and
 Services respectively:
 (i) Merchandise Exports from India Scheme (MEIS).
 (ii) Service Exports from India Scheme (SEIS).
-3.02 Nature of Rewards
+- 3.02 Nature of Rewards
 Duty Credit Scrips shall be granted as rewards under MEIS and SEIS. The
 Duty Credit Scrips and goods imported / domestically procured against
 them shall be freely transferable. The Duty Credit Scrips can be used for :
@@ -1767,16 +1819,17 @@ inputs or goods,
 specified under Sections 3 (1), 3 (3) and 3 (5) of the Customs
 Tariff Act, 1975 and fee as per paragraph 3.18 of this Policy.
 Merchandise Exports from India Scheme (MEIS)
-3.03 Objective
+- 3.03 Objective
 Objective of the Merchandise Exports from India Scheme (MEIS) is
 to promote the manufacture and export of notified goods/ products.
-51
+- 51
+
 
 ---
 
 ## 🔹 Page 58
 
-3.04 Entitlement under MEIS
+- 3.04 Entitlement under MEIS
 Exports of notified goods/products with ITC[HS] code, to notified markets
 as listed in Appendix 3B, shall be rewarded under MEIS. Appendix 3B also
 lists the rate(s) of rewards on various notified products [ITC (HS) code
@@ -1784,13 +1837,13 @@ wise]. The basis of calculation of reward would be on realised FOB value
 of exports in free foreign exchange, or on FOB value of exports as given
 in the Shipping Bills in freely convertible foreign currencies, whichever is
 less, unless otherwise specified.
-3.05 Export of goods through courier or foreign post offices using e-
+- 3.05 Export of goods through courier or foreign post offices using e-
 Commerce
 (i) Exports of goods through courier or foreign post office using e-
 commerce, as notified in Appendix 3C, of FOB value upto Rs.
-25000 per consignment shall be entitled for rewards under MEIS.
+- 25000 per consignment shall be entitled for rewards under MEIS.
 (ii) If the value of exports using e-commerce platform is more than
-Rs 25000 per consignment then MEIS reward would be limited
+- Rs 25000 per consignment then MEIS reward would be limited
 to FOB value of Rs.25000 only.
 (iii) Such goods can be exported in manual mode through Foreign
 Post Offices at New Delhi, Mumbai and Chennai.
@@ -1799,7 +1852,7 @@ manually on pilot basis through Airports at Delhi, Mumbai and
 Chennai as per appropriate amendments in regulations to be
 made by Department of Revenue. Department of Revenue shall
 fast track the implementation of EDI mode at courier terminals.
-3.06 Ineligible categories under MEIS
+- 3.06 Ineligible categories under MEIS
 The following exports categories /sectors shall be ineligible for Duty
 Credit Scrip entitlement under MEIS
 (i) Supplies made from DTA units to SEZ units
@@ -1811,17 +1864,18 @@ India; (iv) Deemed Exports;
 (vi) Export products which are subject to Minimum export price or
 export duty.
 (vii) Exports made by units in FTWZ.
-52
+- 52
+
 
 ---
 
 ## 🔹 Page 59
 
 Service Exports from India Scheme (SEIS)
-3.07 Objective
+- 3.07 Objective
 Objective of Service Exports from India Scheme (SEIS) is to
 encourage and maximize export of notified Services from India.
-3.08 Eligibility
+- 3.08 Eligibility
 (a) Service Providers of notified services, located in India, shall be
 rewarded under SEIS. Only Services rendered in the manner as per
 Para 9.51(i) and Para 9.51(ii) of this policy shall be eligible. The
@@ -1846,32 +1900,33 @@ for service sector only.
 (f) In order to claim reward under the scheme, Service provider
 shall have to have an active IEC at the time of rendering such
 services for which rewards are claimed.
-53
+- 53
+
 
 ---
 
 ## 🔹 Page 60
 
-3.09 Ineligible categories under SEIS
+- 3.09 Ineligible categories under SEIS
 Foreign exchange remittances other than those earned for rendering of
 notified services would not be counted for entitlement. Thus, other sources
 of foreign exchange earnings such as equity or debt participation, donations,
 receipts of repayment of loans etc. and any other inflow of foreign exchange,
 unrelated to rendering of service, would be ineligible.
-3.10 Entitlement under SEIS
+- 3.10 Entitlement under SEIS
 Service Providers of eligible services shall be entitled to Duty Credit Scrip at
 notified rates (as given in Appendix 3D) on net foreign exchange earned.
-3.11 Remittances through Credit Card and other instruments for
+- 3.11 Remittances through Credit Card and other instruments for
 MEIS and SEIS
 Free Foreign Exchange earned through international credit cards
 and other instruments, as permitted by RBI shall also be taken into
 account for computation of value of exports.
-3.12 Effective date of schemes (MEIS and SEIS)
+- 3.12 Effective date of schemes (MEIS and SEIS)
 The schemes shall come into force with effect from the date of
 notification of this Policy, i.e. the rewards under MEIS/SEIS shall be
 admissible for exports made/services rendered on or after the date
 of notification of this Policy.
-3.13 Special Provisions
+- 3.13 Special Provisions
 (a) Government reserves the right in public interest, to specify
 export products or services or markets, which shall not be
 eligible for computation of entitlement of duty credit scrip.
@@ -1881,14 +1936,15 @@ the rate/ceiling on Duty Credit Scrip under this chapter.
 be allowed for debiting through Duty Credit Scrips in case of import.
 (d) Government may prescribe value cap of any kind for a product(s)
 or limit total reward per IEC holder under this chapter at any time.
-54
+- 54
+
 
 ---
 
 ## 🔹 Page 61
 
 Common Provisions for Exports from India Schemes (MEIS and SEIS)
-3.14 Transitional Arrangement
+- 3.14 Transitional Arrangement
 For the goods exported or services rendered upto the date of notification
 of this Policy, which were otherwise eligible for issuance of scrips under
 erstwhile Chapter 3 of the earlier Foreign Trade Policy(ies) and scrip is
@@ -1897,18 +1953,18 @@ of goods or services rendered, the then prevailing policy and procedure
 regarding eligibility, entitlement, transferability, usage of scrip and any
 other condition in force at the time of export of goods or rendering of the
 services, shall be applicable to such scrips.
-3.15 CENVAT/ Drawback
+- 3.15 CENVAT/ Drawback
 Additional Customs duty specified under Sections 3(1), 3(3) and 3(5) of
 the Customs Tariff Act, 1975 /Central excise duty paid in cash or
 through debit under Duty Credit scrip shall be adjusted as CENVAT
 Credit or Duty Drawback as per DoR rules or notifications. Basic
 Custom duty paid in cash or through debit under Duty Credit scrip
 shall be adjusted for Duty Drawback as per DoR rules or notifications.
-3.16 Import under lease financing
+- 3.16 Import under lease financing
 Utilization of Duty Credit Scrip shall be permitted for payment of
 duty in case of import of capital goods under lease financing in
 terms of provision in paragraph 2.34 of FTP.
-3.17 Transfer of export performance
+- 3.17 Transfer of export performance
 (a) Transfer of export performance from one IEC holder to another
 IEC holder shall not be permitted. Thus, a shipping bill
 containing name of applicant shall be counted in export
@@ -1920,13 +1976,14 @@ supporting manufacturer (along with disclaimer from the
 company / firm who has realized the foreign exchange directly
 from overseas) or by the company/ firm who has realized the
 foreign exchange directly from overseas.
-55
+- 55
+
 
 ---
 
 ## 🔹 Page 62
 
-3.18 Facility of payment of custom duties and fee through duty
+- 3.18 Facility of payment of custom duties and fee through duty
 credit scrips
 (a) Duty Credit Scrip can be utilized / debited for payment of Custom
 Duties in case of EO defaults for Authorisations issued under
@@ -1937,7 +1994,7 @@ imported under the respective reward schemes. However, penalty
 (b) Duty credit scrips can also be used for payment of composition fee
 under FTP, for payment of application fee under FTP, if any and for
 payment of value shortfall in EO under Para 4.49 of HBP 2015-20.
-3.19 Risk Management System
+- 3.19 Risk Management System
 (a) A Risk Management System shall be in operation whereby every
 month Computer system in DGFT Headquarters, on random basis
 and on the basis of guidelines issued by the DGFT from time to
@@ -1961,7 +2018,8 @@ Invoices at any time within three years from the date of issue of scrip.
 Failure to submit such documents in original would make applicant
 liable to refund the reward granted along with interest at the rate
 prescribed under section 28 A A of the Customs Act 1962, from the
-56
+- 56
+
 
 ---
 
@@ -1974,7 +2032,7 @@ be the responsibility of applicant to maintain such documents,
 certificate etc. for a period of at least three years from the date
 of issuance of scrips or the completion of scrutiny under RMS
 initiated by the RA whichever is later.
-3.20 Status Holder
+- 3.20 Status Holder
 (a) Status Holders are business leaders who have excelled in
 international trade and have successfully contributed to
 country’s foreign trade. Status Holders are expected to not
@@ -1995,13 +2053,14 @@ shall be converted in US$ at the exchange rate notified by
 CBEC, as applicable on 1st April of each Financial Year.
 (d) For granting status, export performance is necessary in at
 least two out of four years.
-57
+- 57
+
 
 ---
 
 ## 🔹 Page 64
 
-3.21 Status Category
+- 3.21 Status Category
 Export Performance
 Status Category FOB / FOR (as converted) Value
 (in US $ million)
@@ -2010,7 +2069,7 @@ Two Star Export House 25
 Three Star Export House 100
 Four Star Export House 500
 Five Star Export House 2000
-3.22 Grant of Double Weightage
+- 3.22 Grant of Double Weightage
 (a) The exports by IEC holders under the following categories
 shall be granted double weightage for calculation of export
 performance for grant of status.
@@ -2028,20 +2087,21 @@ categories namely Two Star Export House, Three Star Export
 House, Four Star export House and Five Star Export House.
 (c) A shipment can get double weightage only once in any one of
 above categories.
-58
+- 58
+
 
 ---
 
 ## 🔹 Page 65
 
-3.23 Other conditions for grant of status
+- 3.23 Other conditions for grant of status
 (a) Export performance of one IEC holder shall not be permitted to
 be transferred to another IEC holder. Hence, calculation of
 exports performance based on disclaimer shall not be allowed.
 (b) Exports made on re-export basis shall not be counted for recognition.
 (c) Export of items under Authorisation, including SCOMET items,
 would be included for calculation of export performance.
-3.24 Privileges of Status Holders
+- 3.24 Privileges of Status Holders
 A Status Holder shall be eligible for privileges as under:
 (a) Authorisation and Customs Clearances for both imports and
 exports may be granted on self-declaration basis;
@@ -2062,7 +2122,8 @@ guidelines of CBEC (website: http://cbec.gov.in).
 priority in handling of their consignments by the concerned agencies.
 (h) Manufacturers who are also status holders (Three Star/Four
 Star/Five Star) will be enabled to self-certify their manufactured
-59
+- 59
+
 
 ---
 
@@ -2086,7 +2147,7 @@ on free of cost basis for export promotion subject to an annual limit of
 Rupees One Crore or 2% of average annual export realization during
 preceding three licensing years, whichever is lower. For export of
 pharma products by pharmaceutical companies, the annual limit would
-be 2% of the average annual export realisation during preceding three
+- be 2% of the average annual export realisation during preceding three
 licensing years. In case of supplies of pharmaceutical products,
 vaccines and lifesaving drugs to health programmes of international
 agencies such as UN, WHO-PAHO and Government health
@@ -2095,7 +2156,8 @@ export realisation during preceding three licensing years. Such free of
 cost supplies shall not be entitled to Duty Drawback or any other
 export incentive under any export promotion scheme
 .
-60
+- 60
+
 
 ---
 
@@ -2103,10 +2165,10 @@ export incentive under any export promotion scheme
 
 CHAPTER 4
 DUTY EXEMPTION /REMISSION SCHEMES
-4.00 Objective
+- 4.00 Objective
 Schemes under this Chapter enable duty free import of inputs for export
 production, including replenishment of inputs or duty remission.
-4.01 Schemes
+- 4.01 Schemes
 (a) Duty Exemption Schemes.
 The Duty Exemption schemes consist of the following:
 Advance Authorisation (AA) (which will include Advance
@@ -2115,10 +2177,10 @@ Duty Free Import Authorisation (DFIA).
 (b) Duty Remission Scheme.
 Duty Drawback (DBK) Scheme, administered by Department of
 Revenue.
-4.02 Applicability of Policy & Procedures
+- 4.02 Applicability of Policy & Procedures
 Authorisation under this Chapter shall be issued in accordance with the
 Policy and Procedures in force on the date of issue of the Authorisation.
-4.03 AdvanceAuthorisation
+- 4.03 AdvanceAuthorisation
 (a) Advance Authorisation is issued to allow duty free import of
 input, which is physically incorporated in export product
 (making normal allowance for wastage). In addition, fuel, oil,
@@ -2126,7 +2188,8 @@ catalyst which is consumed / utilized in the process of
 production of export product, may also be allowed.
 (b) Advance Authorisation is issued for inputs in relation to
 resultant product, on the following basis:
-61
+- 61
+
 
 ---
 
@@ -2142,12 +2205,12 @@ OR
 OR
 (iv) On the basis of Self Ratification Scheme in terms of Para 4.07A
 of Foreign Trade Policy.
-4.04 Advance Authorisation for Spices
+- 4.04 Advance Authorisation for Spices
 Duty free import of spices covered under Chapter-9 of ITC (HS)
 shall be permitted only for activities like crushing/grinding /
 sterilization/ manufacture of oils or oleoresins. Authorisation shall
 not be available for simply cleaning, grading, re-packing etc.
-4.04 A Special Advance Authorisation Scheme for export of
+- 4.04 A Special Advance Authorisation Scheme for export of
 Articles of Apparel and Clothing accessories.
 Duty free import of fabric under ‘Special Advance Authorisation Scheme
 for export of Articles of Apparel and Clothing Accessories’ shall be
@@ -2161,7 +2224,8 @@ Norms Committee.
 relevant fabrics including inter lining only as input. No
 other input, packing material, fuel, oil and catalyst shall
 be allowed for import under this authorisation.
-62
+- 62
+
 
 ---
 
@@ -2194,15 +2258,16 @@ condition and it shall be physically incorporated in the
 export product (making normal allowance for wastage).
 Only Physical exports shall fulfil the export obligation.
 (vii) Provisions of paragraphs 4.02, 4.05(a), 4.13(i), 4.13(ii), 4.14,
-4.15, 4.17, 4.19, 4.21(i), 4.21(ii), 4.21 (iii), 4.21(v), 4.22(i), and
-4.24 of Foreign Trade Policy shall be applicable in so far
+- 4.15, 4.17, 4.19, 4.21(i), 4.21(ii), 4.21 (iii), 4.21(v), 4.22(i), and
+- 4.24 of Foreign Trade Policy shall be applicable in so far
 as they are not inconsistent with this scheme.
-4.05 Eligible Applicant / Export / Supply
+- 4.05 Eligible Applicant / Export / Supply
 (a) Advance Authorisation can be issued either to a manufacturer
 exporter or merchant exporter tied to supporting manufacturer.
 (b) Advance Authorisation for pharmaceutical products manufactured
 through Non-Infringing (NI) process (as indicated in paragraph 4.18
-63
+- 63
+
 
 ---
 
@@ -2218,7 +2283,7 @@ paragraph 7.02 (b), (c), (e), (f), (g) and (h) of this FTP.
 (iv) Supply of ‘stores’ on board of foreign going vessel /
 aircraft, subject to condition that there is specific
 Standard Input Output Norms in respect of item supplied.
-4.06 Advance Authorisation for Annual Requirement
+- 4.06 Advance Authorisation for Annual Requirement
 (i) Advance Authorisation for Annual Requirement shall only be
 issued for items notified in Standard Input Output Norms
 (SION), and it shall not be available in case of adhoc norms
@@ -2226,7 +2291,7 @@ under paragraph 4.03 (b)(ii) of FTP.
 (ii) Advance Authorisation for Annual Requirement shall also not
 be available in respect of SION where any item of input
 appears in Appendix 4-J.
-4.07 Eligibility Condition to obtain Advance Authorisation for
+- 4.07 Eligibility Condition to obtain Advance Authorisation for
 Annual Requirement
 (i) Exporters having past export performance (in at least
 preceding two financial years) shall be entitled for Advance
@@ -2234,13 +2299,14 @@ Authorisation for Annual requirement.
 (ii) Entitlement in terms of CIF value of imports shall be upto 300% of the
 FOB value of physical export and / or FOR value of deemed export in
 preceding financial year or Rs 1 crore, whichever is higher.
-4.07A Self Ratification Scheme
+- 4.07A Self Ratification Scheme
 i. Where there is no SION/valid Adhoc Norms for an export product
 and where SION has been notified but exporter intends to use
 additional inputs in the manufacturing process, eligible exporter
 can apply for an Advance Authorisation under this scheme on
 self declaration and self ratification basis. RA may
-64
+- 64
+
 
 ---
 
@@ -2252,7 +2318,7 @@ Application under this scheme shall be made along with a
 Certificate from Chartered Engineer in the prescribed format.
 ii. A Certificate from a Chartered Engineer who has been not
 been penalised in the last five years under FT(D&R) Act
-1992, Customs Act 1962, Central Excise Act 1944, GST Acts
+- 1992, Customs Act 1962, Central Excise Act 1944, GST Acts
 and allied acts and rules made there under shall only be
 accepted for grant of Authorisation under this scheme.
 iii. Detailed procedure for administering the scheme shall be
@@ -2268,7 +2334,7 @@ b) Biotechnology items and related products; and
 c) SCOMET items.
 vi. The scheme shall not be available for the following inputs.
 a) All vegetable / edible oils classified under Chapter-
-15 and all types of oilseeds classified under
+- 15 and all types of oilseeds classified under
 Chapter-12 of ITC (HS) book;
 b) All types of cereals classified under Chapter–10 of
 ITC (HS) book;
@@ -2279,12 +2345,13 @@ f) All items with basic customs duty of 30% or more;
 g) All types of fruits/ nuts/ vegetables classified under
 Chapter-7 and Chapter-8 of ITC (HS) book;
 h) Items covered under heading 2515, 2516, 3301,
-3302, 3303 6801 and 6802 of ITC(HS) Classification;
+- 3302, 3303 6801 and 6802 of ITC(HS) Classification;
 i) Items covered under Chapter 50 to 63 of ITC(HS)
 classification.
 j) Acetic Anhydride, Ephedrine and Pseudoephedrine;
 k) Vitamins;
-65
+- 65
+
 
 ---
 
@@ -2327,7 +2394,8 @@ stage of scrutiny/enquiry/investigation that the norms have
 not been claimed correctly or the excess benefit has been
 availed. Special audit can be conducted even if the
 manufacturer has already been audited before.
-66
+- 66
+
 
 ---
 
@@ -2340,7 +2408,7 @@ consumed, demand and recovery actions will be initiated in
 addition to initiation of action against the authorisation holder,
 manufacturer and Chartered Engineer in terms of Foreign
 Trade Development and Regulation Act 1992 and/or Customs
-Act 1962, as amended and rules made there under.
+- Act 1962, as amended and rules made there under.
 xii. In cases where Chartered Engineer has not exercised due
 diligence or has willfully become party to misdeclaration
 action will be initiated under against such person under
@@ -2351,20 +2419,21 @@ warranted under the bylaws of the institute.
 xiii. All the provisions applicable for Advance Authorisation
 Scheme shall be applicable to this scheme also in so far
 they are not inconsistent with this scheme.
-4.08 Value Addition
+- 4.08 Value Addition
 Value Addition for the purpose of this Chapter (except for Gems and
 Jewellery sector for which value addition is prescribed in paragraph
-4.38 of FTP) shall be:-
+- 4.38 of FTP) shall be:-
 A-B
 VA = ----------- x100, where
 B
 A =FOB value of export realized/FOR value of supply received.
 B =CIF value of inputs covered by Authorisation, plus value of any other
 input used on which benefit of DBK is claimed or intended to be claimed.
-4.09 Minimum Value Addition
+- 4.09 Minimum Value Addition
 (i) Minimum value addition required to be achieved under
 Advance Authorisation is 15%.
-67
+- 67
+
 
 ---
 
@@ -2376,11 +2445,11 @@ are given in Appendix 4D.
 (iv) Minimum value addition for Gems & Jewellery Sector is given
 in paragraph 4.61 of Handbook of Procedures.
 (v) In case of Tea, minimum value addition shall be 50%.
-4.10 Import of Mandatory Spares
+- 4.10 Import of Mandatory Spares
 Import of mandatory spares which are required to be exported /
 supplied with the resultant product shall be permitted duty free to
 the extent of 10% of CIF value of Authorisation.
-4.11 Ineligible categories of import on Self Declaration basis
+- 4.11 Ineligible categories of import on Self Declaration basis
 (a) Import of following products shall not be permissible on self-
 declaration basis:
 (i) All vegetable / edible oils classified under Chapter-15 and all
@@ -2407,7 +2476,8 @@ Norms Committee.
 (c) Where export and/or import of biotechnology items and related
 products are involved, Authorisation under paragraph 4.07 of
 Handbook of Procedures shall be issued by Regional Authority only
-68
+- 68
+
 
 ---
 
@@ -2415,7 +2485,7 @@ Handbook of Procedures shall be issued by Regional Authority only
 
 on submission of a “No Objection Certificate” from
 Department of Biotechnology.
-4.12 Accounting of Input
+- 4.12 Accounting of Input
 (i) Wherever SION permits use of either (a) a generic input or (b)
 alternative input, unless the name of the specific input together with
 quantity [which has been used in manufacturing the export product]
@@ -2439,14 +2509,15 @@ shipping bill together with quantity.
 (iv) The above provisions will also be applicable for supplies to SEZs
 and supplies made under Deemed exports. Details as given
 above will have to be indicated in the relevant Bill of Export, ARE-
-3, Central Excise certified Invoice / import document / Tax Invoice
+- 3, Central Excise certified Invoice / import document / Tax Invoice
 for export prescribed under the GST rules
-4.13 Pre-import condition in certain cases
+- 4.13 Pre-import condition in certain cases
 (i) DGFT may, by Notification, impose pre-import condition for
 inputs under this Chapter.
 (ii) Import items subject to pre-import condition are listed in Appendix
-4-J or will be as indicated in Standard Input Output Norms (SION).
-69
+- 4-J or will be as indicated in Standard Input Output Norms (SION).
+- 69
+
 
 ---
 
@@ -2454,7 +2525,7 @@ inputs under this Chapter.
 
 (iii) Import of drugs from unregistered sources shall have pre-
 import condition.
-4.14 Details of Duties exempted
+- 4.14 Details of Duties exempted
 Imports under Advance Authorisation are exempted from payment of
 Basic Customs Duty, Additional Customs Duty, Education Cess, Anti-
 dumping Duty, Countervailing Duty, Safeguard Duty, Transition Product
@@ -2465,12 +2536,12 @@ Safeguard Duty and Transition Product Specific Safeguard Duty, if any.
 However, imports under Advance Authorisation for physical exports are
 also exempt from whole of the integrated tax and Compensation Cess
 leviable under sub-section (7) and sub-section (9) respectively, of section
-3 of the Customs Tariff Act, 1975 (51 of 1975), as may be provided in the
+- 3 of the Customs Tariff Act, 1975 (51 of 1975), as may be provided in the
 notification issued by Department of Revenue, and such imports shall be
 subject to pre-import condition. Imports against Advance Authorisations
 for physical exports are exempted from Integrated Tax and Compensation
 Cess upto 31.03.2018 only.
-4.15 Admissibility of Drawback
+- 4.15 Admissibility of Drawback
 Drawback as per rate determined and fixed by Customs authority in terms
 of DoR Rules shall be available for duty paid imported or indigenous
 inputs (not specified in the norms) used in the export product. For this
@@ -2478,7 +2549,7 @@ purpose, applicant shall indicate clearly details of duty paid input in the
 application for Advance Authorisation. As per details mentioned in the
 application, Regional Authority shall also clearly endorse details of such
 duty paid inputs in the condition sheet of the Advance Authorisation.
-4.16 Actual User Condition for Advance Authorisation
+- 4.16 Actual User Condition for Advance Authorisation
 (i) Advance Authorisation and / or material imported under
 Advance Authorisation shall be subject to ‘Actual User’
 condition. The same shall not be transferable even after
@@ -2487,7 +2558,8 @@ will have option to dispose of product manufactured out of
 duty free input once export obligation is completed.
 (ii) In case where CENVAT/input tax credit facility on input has been
 availed for the exported goods, even after completion of export
-70
+- 70
+
 
 ---
 
@@ -2504,10 +2576,10 @@ Certificate to Regional Authority concerned.
 (iii) Waste / Scrap arising out of manufacturing process, as
 allowed, can be disposed off on payment of applicable duty
 even before fulfillment of export obligation.
-4.17 Validity Period for Import and its Extension
+- 4.17 Validity Period for Import and its Extension
 Validity period for import under Advance Authorisation shall
 be as prescribed in Handbook of Procedures.
-4.18 Importability/Export ability of items that are
+- 4.18 Importability/Export ability of items that are
 Prohibited/Restricted/ STE
 (i) No export or import of an item shall be allowed under Advance
 Authorisation / DFIA if the item is prohibited for exports or
@@ -2528,7 +2600,8 @@ Department for monitoring with a copy endorsed to DGFT.
 (iii) Items reserved for export by STE can be exported under
 Advance Authorisation / DFIA only after obtaining a ‘No
 Objection Certificate’ from the concerned STE.
-71
+- 71
+
 
 ---
 
@@ -2539,14 +2612,14 @@ Authorisation/ DFIA.
 (v) Export of restricted / SCOMET items however, shall be subject to
 all conditionalities or requirements of export authorisation or
 permission, as may be required, under Schedule 2 of ITC (HS).
-4.19 Free of Cost Supply by Foreign Buyer
+- 4.19 Free of Cost Supply by Foreign Buyer
 Advance Authorisation shall also be available where some or all inputs
 are supplied free of cost to exporter by foreign buyer. In such cases,
 notional value of free of cost input shall be added in the CIF value of
 import and FOB value of export for the purpose of computation of
 value addition. However, realization of export proceeds will be
 equivalent to an amount excluding notional value of such input.
-4.20 Domestic Sourcing of Inputs
+- 4.20 Domestic Sourcing of Inputs
 (i) Holder of an Advance Authorisation / Duty Free Import
 Authorisation can procure inputs from indigenous supplier/
 State Trading Enterprise/EOU/EHTP/BTP/STP in lieu of direct
@@ -2566,7 +2639,8 @@ simultaneously or subsequently.
 from / SEZ units without obtaining Advance Release Order or
 Invalidation Letter.
 (vi) Deleted
-72
+- 72
+
 
 ---
 
@@ -2574,7 +2648,7 @@ Invalidation Letter.
 
 (vii) Validity of Advance Release Order / Invalidation Letter shall be
 co-terminous with validity of Authorisation.
-4.21 Currency for Realisation of Export Proceeds.
+- 4.21 Currency for Realisation of Export Proceeds.
 (i) Export proceeds shall be realized in freely convertible
 currency except otherwise specified. Provisions regarding
 realisation and non realisation of export proceeds are given in
@@ -2589,11 +2663,11 @@ is realised in Indian Rupees.
 (v) Authorisation holder needs to file Bill of Export for export to
 SEZ unit / developer / co-developer in accordance with the
 procedures given in SEZ Rules, 2006.
-4.22 Export Obligation Period and its Extension
+- 4.22 Export Obligation Period and its Extension
 Period for fulfilment of export obligation and its extension under Advance
 Authorisation shall be as prescribed in Handbook of Procedures.
-4.23 Deleted
-4.24 Re-import of exported goods under Duty Exemption /
+- 4.23 Deleted
+- 4.24 Re-import of exported goods under Duty Exemption /
 Remission Scheme
 Goods exported under Advance Authorisation/ Duty Free Import
 Authorisation may be re-imported in same or substantially same
@@ -2601,14 +2675,15 @@ form subject to such conditions as may be specified by Department
 of Revenue. Authorisation holder shall also inform about such re-
 importation to the Regional Authority which had issued the
 Authorisation within one month from date of re-import.
-73
+- 73
+
 
 ---
 
 ## 🔹 Page 80
 
 DUTY FREE IMPORT AUTHORISATION SCHEME (DFIA)
-4.25 DFIA Scheme
+- 4.25 DFIA Scheme
 (a) Duty Free Import Authorisation is issued to allow duty free
 import of inputs. In addition, import of oil and catalyst which is
 consumed / utilised in the process of production of export
@@ -2617,7 +2692,7 @@ product, may also be allowed.
 shall be applicable to DFIA also.
 (c) Duty Free Import Authorisation Scheme shall not be available
 for import of raw sugar.
-4.26 Duties Exempted
+- 4.26 Duties Exempted
 (i) Duty Free Import Authorisation shall be exempted only from
 payment of Basic Customs Duty (BCD).
 (ii) Deleted
@@ -2630,7 +2705,7 @@ in the application for Duty Free Import Authorisation, and as per the
 details mentioned in the application, the Regional Authority should
 also have clearly endorsed details of such duty paid inputs in the
 condition sheet of the Duty Free Import Authorisation.
-4.27 Eligibility
+- 4.27 Eligibility
 (i) Duty Free Import Authorisation shall be issued on post export
 basis for products for which Standard Input Output Norms
 have been notified.
@@ -2640,7 +2715,8 @@ the export document viz. Shipping Bill/ Bill of Export / Tax
 Invoice for export prescribed under the GST rules.
 (iii) Application is to be filed with concerned Regional Authority
 before effecting export under Duty Free Import Authorisation.
-74
+- 74
+
 
 ---
 
@@ -2650,9 +2726,9 @@ before effecting export under Duty Free Import Authorisation.
 which is subjected to pre-import condition or where SION
 prescribes ‘Actual User’ condition or Appendix-4J prescribes
 pre import condition for such an input.
-4.28 Minimum Value Addition
+- 4.28 Minimum Value Addition
 Minimum value addition of 20% shall be required to be achieved.
-4.29 Validity &Transferability of DFIA
+- 4.29 Validity &Transferability of DFIA
 (i) Applicant shall file online application to Regional Authority
 concerned before starting export under DFIA.
 (ii) Export shall be completed within 12 months from the date of
@@ -2679,7 +2755,8 @@ quantity against such group of inputs. Proportion of these inputs
 actually used/consumed in production of export product shall be
 clearly indicated in Shipping Bill / Bill of Export / Tax invoice for
 supply prescribed under GST rules.
-75
+- 75
+
 
 ---
 
@@ -2689,9 +2766,9 @@ supply prescribed under GST rules.
 (vii) Exports under DFIA shall be made from a single port as
 mentioned in paragraph 4.37 of Handbook of Procedures.
 (viii) Regional Authority shall issue transferable DFIA with a validity
-of 12 months from the date of issue. No further revalidation
+- of 12 months from the date of issue. No further revalidation
 shall be granted by Regional Authority.
-4.30 Sensitive Items under Duty Free Import Authorisation
+- 4.30 Sensitive Items under Duty Free Import Authorisation
 (a) In respect of following inputs, exporter shall be required to
 provide declaration with regard to technical characteristics,
 quality and specification in Shipping Bill:
@@ -2708,15 +2785,16 @@ Vinyl Ester Resin, Hydroxy Ethyl Cellulose), Lining Material”.
 Authority shall mention technical characteristics, quality and
 specification in respect of above inputs in the Authorisation.
 SCHEMES FOR EXPORTERS OF GEMSAND JEWELLERY
-4.31 Import of Input
+- 4.31 Import of Input
 Exporters of gems and Jewellery can import / procure duty free (excluding
 Integrated Tax and Compensation Cess leviable under Section 3(7) and 3(9)
 of customs Tariff Act) input for manufacture of export product.
-4.32 Items of Export
+- 4.32 Items of Export
 Following items, if exported, would be eligible:
 (i) Gold jewellery, including partly processed jewellery and articles
 including medallions and coins (excluding legal tender coins),
-76
+- 76
+
 
 ---
 
@@ -2731,14 +2809,14 @@ goods) containing more than 50% silver by weight;
 (iii) Platinum jewellery including partly processed jewellery and articles
 including medallions and coins (excluding legal tender coins and any
 engineering goods) containing more than 50% platinum by weight.
-4.33 Schemes
+- 4.33 Schemes
 The schemes are as follows:
 (i) Advance Procurement / Replenishment of Precious Metals
 from Nominated Agencies;
 (ii) Replenishment Authorisation for Gems;
 (iii) Replenishment Authorisation for Consumables;
 (iv) Advance Authorisation for Precious Metals.
-4.34 Advance Procurement/ Replenishment of Precious Metals from
+- 4.34 Advance Procurement/ Replenishment of Precious Metals from
 Nominated Agencies
 (i) Exporter of gold / silver / platinum jewellery and articles
 thereof including mountings and findings may obtain gold /
@@ -2751,8 +2829,9 @@ avails any of the benefits in respect of exported product.
 a. CENVAT Credit is availed on inputs or services by the
 manufacturer.
 b. Finished goods stage rebate is availed under Notification
-No 19/2004-CE (NT) dated 06.09.2004.
-77
+- No 19/2004-CE (NT) dated 06.09.2004.
+- 77
+
 
 ---
 
@@ -2769,7 +2848,7 @@ refund of IGST is availed under section 54 of the CGST Act.
 (ii) The export would be subject to wastage norms and minimum
 value addition as prescribed in paragraph 4.60 and 4.61
 respectively in the Handbook of Procedures.
-4.35 Replenishment Authorisation for Gems
+- 4.35 Replenishment Authorisation for Gems
 (i) Exporter may obtain Replenishment Authorisation for Gems
 from Regional Authority in accordance with procedure
 specified in Handbook of Procedures as per the replenishment
@@ -2785,7 +2864,7 @@ shall be on the remaining FOB value of exports after deducting
 the value of gold/ silver/ platinum including admissible
 wastage. The scale of replenishment and the item of import will
 be as prescribed in Appendix 4G.
-4.36 Replenishment Authorisation for Consumables
+- 4.36 Replenishment Authorisation for Consumables
 (i) Replenishment Authorisation for duty free (excluding Integrated Tax
 and Compensation cess leviable under Section 3(7) and 3(9) of
 Customs Tariff Act)import of Consumables, Tools and other items
@@ -2793,7 +2872,8 @@ namely, Tags and labels, Security censor on card, Staple wire, Poly
 bag (as notified by Customs) for Jewellery made out of precious
 metals (other than Gold & Platinum) equal to 2% and for Cut and
 Polished Diamonds and Jewellery made out of Gold and Platinum
-78
+- 78
+
 
 ---
 
@@ -2807,11 +2887,11 @@ FOB value of exports of such jewellery. This Authorisation
 shall be non-transferable and subject to actual user condition.
 (ii) Application for import of consumables as given above shall be
 filed online to the concerned Regional Authority in ANF 4H.
-4.37 Advance Authorisation for Precious Metals
+- 4.37 Advance Authorisation for Precious Metals
 (a) Advance Authorisation shall be granted on pre-import basis
 with ‘Actual User’ condition for duty free (excluding Integrated
 Tax and Compensation cess leviable under Section 3(7) and
-3(9) of Customs Tariff Act)import of:
+- 3(9) of Customs Tariff Act)import of:
 (i) Gold of fineness not less than 0.995 and mountings,
 sockets, frames and findings of 8 carats and above;
 (ii) Silver of fineness not less than 0.995 and mountings,
@@ -2825,14 +2905,15 @@ shall be fulfilled as per procedure indicated in Chapter 4 of
 Handbook of Procedures.
 (c) Value Addition shall be as per paragraph 4.38 of FTP and 4.61
 of Handbook of Procedures.
-4.38 Value Addition
+- 4.38 Value Addition
 Minimum Value Addition norms for gems and jewellery sector are
 given in paragraph 4.61 of Handbook of Procedures. It would be
 calculated as under:
 A-B
 VA = ----------- x100,where
 B
-79
+- 79
+
 
 ---
 
@@ -2844,13 +2925,13 @@ gold/silver/platinum content in export product plus admissible
 wastage along with value of other items such as gemstone etc.
 Wherever gold has been obtained on loan basis, value shall also
 include interest paid in free foreign exchange to foreign supplier.
-4.39 Wastage Norms
+- 4.39 Wastage Norms
 Wastage or manufacturing loss for gold/silver/platinum jewellery shall
 be admissible as per paragraph 4.60 of Handbook of Procedures.
-4.40 DFIA not available
+- 4.40 DFIA not available
 Duty Free Import Authorisation scheme shall not be available for
 Gems and Jewellery sector.
-4.41 Nominated Agencies
+- 4.41 Nominated Agencies
 (i) Exporters may obtain gold / silver / platinum from Nominated Agency.
 Exporter in EOU and units in SEZ would be governed by the respective
 provisions of Chapter-6 of FTP / SEZ Rules, respectively.
@@ -2868,7 +2949,8 @@ remaining validity period of the Nominated Agency certificate.
 (iv) Procedure for import of precious metal by Nominated Agency (other
 than those authorized by Reserve Bank of India and the Gems &
 Jewellery units operating under EOU and SEZ schemes) and the
-80
+- 80
+
 
 ---
 
@@ -2879,26 +2961,26 @@ laid down in Hand Book of Procedures.
 (v) A bank authorised by Reserve Bank of India is allowed export
 of gold scrap for refining and import standard gold bars as per
 Reserve Bank of India guidelines.
-4.42 Import of Diamonds for Certification / Grading & Re- export
+- 4.42 Import of Diamonds for Certification / Grading & Re- export
 Following agencies are permitted to import diamonds to their
 laboratories without any import duty, for the purpose of
 certification / grading reports, with a condition that the same should
 be re-exported with the certification/grading reports, as per the
 procedure laid down in Hand Book of Procedures:
-(1) Gemological Institute of America (GIA), Mumbai, Maharashtra.
-(2) Indian Diamond Institute, Surat, Gujarat, India.
-(3) International Institute of Diamond Grading & Research India
+- (1) Gemological Institute of America (GIA), Mumbai, Maharashtra.
+- (2) Indian Diamond Institute, Surat, Gujarat, India.
+- (3) International Institute of Diamond Grading & Research India
 Pvt. Ltd., Surat, Gujarat, India.
-(4) HRD Diamond Institute Private Limited, Mumbai, Maharashtra,
+- (4) HRD Diamond Institute Private Limited, Mumbai, Maharashtra,
 India
-(5) International Gemological Institute (India) Pvt. Ltd, Bandra
+- (5) International Gemological Institute (India) Pvt. Ltd, Bandra
 Kurla Complex, Mumbai
-4.43 Export of Cut & Polished Diamonds for Certification/ Grading &
+- 4.43 Export of Cut & Polished Diamonds for Certification/ Grading &
 Re-import
 List of authorized laboratories for certification / grading of
 diamonds of 0.25 carat and above are given in paragraph 4.74 of
 Handbook of Procedures.
-4.44 Export of Cut & Polished Diamonds with Re-import Facility at
+- 4.44 Export of Cut & Polished Diamonds with Re-import Facility at
 Zero Duty
 An exporter (with annual export turnover of Rs 5 crores for each of
 the last three years) or the authorized offices/agencies in India of
@@ -2909,13 +2991,14 @@ paragraph 4.74 of Handbook of Procedures with re-import facility at
 zero duty within 3months from the date of export. Such facility of re-
 import at zero duty will be subject to guidelines issued by Central
 Board of Customs & Excise, Department of Revenue.
-81
+- 81
+
 
 ---
 
 ## 🔹 Page 88
 
-4.45 Export against Supply by Foreign Buyer
+- 4.45 Export against Supply by Foreign Buyer
 (i) Where export orders are placed on nominated agencies / status
 holder / exporters of three years standing having an annual
 average turnover of Rupees five crores during preceding three
@@ -2931,7 +3014,7 @@ paragraph 4.60 of Handbook of Procedures shall apply.
 (iii) Exports may be made by nominated agencies directly or
 through their associates or by status holder / exporter. Import
 and Export of findings shall be on net to net basis.
-4.46 Export Promotion Tours/ Export of Branded Jewellery
+- 4.46 Export Promotion Tours/ Export of Branded Jewellery
 (i) Nominated Agencies and their associates, with approval of
 Department of Commerce and with approval of Gem & Jewellery
 Export Promotion Council (GJEPC), may export gold / silver /
@@ -2940,12 +3023,13 @@ platinum jewellery and articles thereof for exhibitions abroad.
 semi-precious stones, beads and articles and export of
 branded jewellery is also permitted, subject to conditions as in
 Handbook of Procedures.
-4.47 Personal Carriage of Export /Import Parcels
+- 4.47 Personal Carriage of Export /Import Parcels
 Personal carriage of gems and jewellery export parcels by foreign
 bound passengers and import parcels by an Indian importer/foreign
 national may be permitted as per the Handbook of Procedures.
-4.48 Export by Post
-82
+- 4.48 Export by Post
+- 82
+
 
 ---
 
@@ -2953,19 +3037,19 @@ national may be permitted as per the Handbook of Procedures.
 
 Export of jewellery through Foreign Post Office including via Speed Post
 is allowed. The jewellery parcel shall not exceed 20 kgs by weight.
-4.49 Private / Public Bonded Warehouse
+- 4.49 Private / Public Bonded Warehouse
 Private / Public Bonded Warehouses may be set up in SEZ/DTA for
 import and re-export of cut and polished diamonds, cut and polished
 coloured gemstones, uncut & unset precious & semi-precious stones,
 subject to achievement of minimum value addition of 5% by DTA units.
-4.49(A)
+- 4.49(A)
 Import, auction/sale and re-export of rough diamonds by entities, as
 notified vide RBI Notification 116 of 1st April, 2014, as amended from time
 to time, on consignment or outright basis, will be permitted in Special
 Notified Zone (SNZ) administered by the operator of SNZ, under
 supervision of Customs. The procedure of import, auction/ sale and re-
 export of rough diamonds (unsold) would be as specified by CBEC.
-4.50 Diamond & Jewellery Dollar Accounts
+- 4.50 Diamond & Jewellery Dollar Accounts
 (a) Firms and companies dealing in purchase / sale of rough or cut and
 polished diamonds / precious metal jewellery plain, minakari and /
 or studded with / without diamond and / or other stones with a track
@@ -2985,7 +3069,8 @@ gemstones and plain gold jewellery from local sources;
 agencies and repayment of dollar loans from the bank; and
 (iv) Transfer to Rupee Account of exporter. Details of this
 DDA Scheme are given in Handbook of Procedures.
-83
+- 83
+
 
 ---
 
@@ -2997,20 +3082,21 @@ convert the same into Rupees within 7 days. Cut and polished
 diamonds and coloured gemstones so supplied by non-DDA
 holder will also be counted towards discharge of his export
 obligation and/ or entitle him to replenishment Authorisation.
-4.51 Export of cut & polished precious and semi-precious stones for
+- 4.51 Export of cut & polished precious and semi-precious stones for
 treatment and re-import
 Gems and Jewellery exporters shall be allowed to export cut and
 polished precious and semi-precious stones for the treatment and
 re-import as per customs rules and regulations. In case of re-export,
 the exporter shall be entitled for duty drawback as per rules.
-4.52 Re-import of rejected Jewellery
+- 4.52 Re-import of rejected Jewellery
 Gems & Jewellery exporters shall be allowed to re-import rejected precious
 metal jewellery as per paragraph 4.91 of Handbook of Procedures.
-4.53 Export and import on consignment basis
+- 4.53 Export and import on consignment basis
 Gems & Jewellery exporters shall be allowed to export and import
 diamond, gemstones & jewellery on consignment basis as per
 Handbook of Procedures and Customs Rules and Regulations.
-84
+- 84
+
 
 ---
 
@@ -3018,17 +3104,17 @@ Handbook of Procedures and Customs Rules and Regulations.
 
 CHAPTER 5
 EXPORT PROMOTION CAPITAL GOODS (EPCG) SCHEME
-5.00 Objective
+- 5.00 Objective
 The objective of the EPCG Scheme is to facilitate import of capital
 goods for producing quality goods and services and enhance
 India’s manufacturing competitiveness.
-5.01 EPCG Scheme
+- 5.01 EPCG Scheme
 (a) EPCG Scheme allows import of capital goods (except those
 specified in negative list in Appendix 5 F) for pre-production,
 production and post-production at zero customs duty. Capital
 goods imported under EPCG Authorisation for physical exports
 are also exempt from IGST and Compensation Cess upto
-31.3.2018 only, leviable thereon under the subsection(7) and
+- 31.3.2018 only, leviable thereon under the subsection(7) and
 subsection (9) respectively, of section 3 of the Customs Tariff
 Act, 1975 (51 of 1975), as provided in the notification issued by
 Department of Revenue. Alternatively, the Authorisation holder
@@ -3046,7 +3132,8 @@ of Excise and Customs is also permitted under EPCG Scheme.
 (c) Import under EPCG Scheme shall be subject to an export obligation
 equivalent to 6 times of duties, taxes and cess saved on capital goods,
 to be fulfilled in 6 years reckoned from date of issue of Authorisation.
-85
+- 85
+
 
 ---
 
@@ -3068,7 +3155,7 @@ Facilitation Committee (EFC) at DGFT Headquarters.
 are restricted for export, the EPCG authorisation shall be issued
 only after approval for issuance of export authorisation from
 Exim Facilitation Committee at DGFT Headquarters.
-5.02 Coverage
+- 5.02 Coverage
 (a) EPCG scheme covers manufacturer exporters with or without
 supporting manufacturer(s), merchant exporters tied to supporting
 manufacturer(s) and service providers. Name of supporting
@@ -3085,7 +3172,8 @@ Service Provider (CSP) by the DGFT, Department of Commerce
 or State Industrial Infrastructural Corporation in a Town of
 Export Excellence subject to provisions of Foreign Trade
 Policy/Handbook of Procedures with the following conditions:-
-86
+- 86
+
 
 ---
 
@@ -3103,10 +3191,10 @@ Authorisations (of the CSP/User); and
 Guarantee (BG) which shall be equivalent to the duty
 saved. BG can be given by CSP or by any one of the
 users or a combination thereof, at the option of the CSP.
-5.03 Actual User Condition
+- 5.03 Actual User Condition
 Imported capital goods shall be subject to Actual User condition till
 export obligation is completed and EODC is granted.
-5.04 Export Obligation (EO)
+- 5.04 Export Obligation (EO)
 Following conditions shall apply to the fulfilment of EO:-
 (a) EO shall be fulfilled by the authorisation holder through export
 of goods which are manufactured by him or his supporting
@@ -3124,7 +3212,8 @@ shall be 25% less than the EO stipulated in Para 5.01.
 (d) Shipments under Advance Authorisation, DFIA, Drawback
 scheme or reward schemes under Chapter 3 of FTP; would
 also count for fulfillment of EO under EPCG Scheme.
-87
+- 87
+
 
 ---
 
@@ -3142,13 +3231,13 @@ R&D services shall also be counted for discharge under EPCG.
 (h) Payment received in rupee terms for such Services as notified
 in Appendix 5D shall also be counted towards discharge of
 export obligation under the EPCG scheme.
-5.05 Deleted
-5.06 LUT/Bond/BG in case of Agro units
+- 5.05 Deleted
+- 5.06 LUT/Bond/BG in case of Agro units
 LUT/Bond or 15% BG, as applicable, may be furnished for EPCG
 authorisation granted to units in Agri-Export Zones provided EPCG
 authorisation is taken for export of primary agricultural product(s)
 notified or their value added variants.
-5.07 Indigenous Sourcing of Capital Goods and benefits to
+- 5.07 Indigenous Sourcing of Capital Goods and benefits to
 Domestic Supplier
 A person holding an EPCG authorisation may source capital goods
 from a domestic manufacturer. Such domestic manufacturer shall be
@@ -3157,17 +3246,18 @@ may be provided under GST Rules under the category of deemed
 exports. Such domestic sourcing shall also be permitted from EOUs
 and these supplies shall be counted for purpose of fulfilment of
 positive NFE by said EOU as provided in Para 6.09 (a) of FTP.
-5.08 Calculation of Export Obligation
+- 5.08 Calculation of Export Obligation
 In case of direct imports, EO shall be reckoned with reference to actual
 duty saved amount. In case of domestic sourcing, EO shall be reckoned
 with reference to notional Customs duties saved on FOR value.
-88
+- 88
+
 
 ---
 
 ## 🔹 Page 95
 
-5.09 Incentive for early EO fulfilment
+- 5.09 Incentive for early EO fulfilment
 With a view to accelerating exports, in cases where Authorisation
 holder has fulfilled 75% or more of specific export obligation and 100%
 of Average Export Obligation till date, if any, in half or less than half the
@@ -3175,17 +3265,17 @@ original export obligation period specified, remaining export obligation
 shall be condoned and the Authorisation redeemed by RA concerned.
 However no benefit under Para 5.21 of HBP shall be permitted where
 incentive for early EO fulfillment has been availed.
-5.10 Reduced EO for Green Technology Products
+- 5.10 Reduced EO for Green Technology Products
 For exporters of Green Technology Products, Specific EO shall be
-75% of EO as stipulated in Para 5.01. There shall be no change in
+- 75% of EO as stipulated in Para 5.01. There shall be no change in
 average EO imposed, if any, as stipulated in Para 5.04. The list of
 Green Technology Products is given in Para 5.29 of HBP.
-5.11 Reduced EO for North East Region and Jammu & Kashmir
+- 5.11 Reduced EO for North East Region and Jammu & Kashmir
 For units located in Arunachal Pradesh, Assam, Manipur, Meghalaya,
 Mizoram, Nagaland, Sikkim, Tripura and Jammu & Kashmir, specific EO
 shall be 25% of the EO, as stipulated in Para 5.01. There shall be no
 change in average EO imposed, if any, as stipulated in Para 5.04.
-5.12 Post Export EPCG Duty Credit Scrip(s)
+- 5.12 Post Export EPCG Duty Credit Scrip(s)
 (a) Post Export EPCG Duty Credit Scrip(s) shall be available to exporters
 who intend to import capital goods on full payment of applicable
 duties, taxes and cess in cash and choose to opt for this scheme.
@@ -3195,7 +3285,8 @@ those issued under Chapter 3 of FTP.
 (c) Specific EO shall be 85% of the applicable specific EO under the
 EPCG Scheme. However, average EO shall remain unchanged.
 (d) Duty remission shall be in proportion to the EO fulfilled.
-89
+- 89
+
 
 ---
 
@@ -3206,7 +3297,8 @@ shall also be applicable to Post Export EPCG Duty Credit Scrip (s).
 (f) All provisions of the existing EPCG Scheme shall apply insofar
 as they are not inconsistent with this scheme.
 ------
-90
+- 90
+
 
 ---
 
@@ -3216,7 +3308,7 @@ CHAPTER 6
 EXPORT ORIENTED UNITS (EOUs), ELECTRONICS HARDWARE
 TECHNOLOGY PARKS (EHTPs), SOFTWARE TECHNOLOGY PARKS
 (STPs) AND BIO-TECHNOLOGY PARKS (BTPs)
-6.00 Introduction and Objective
+- 6.00 Introduction and Objective
 (a) Units undertaking to export their entire production of goods and
 services(except permissible sales in DTA), may be set up under the
 Export Oriented Unit (EOU) Scheme, Electronics Hardware Technology
@@ -3230,7 +3322,7 @@ units are not covered under these schemes.
 (b) Objectives of these schemes are to promote exports, enhance
 foreign exchange earnings, attract investment for export
 production and employment generation.
-6.01 Export and Import of Goods
+- 6.01 Export and Import of Goods
 (a) An EOU / EHTP / STP / BTP unit may export all kinds of goods and
 services except items that are prohibited in ITC (HS). However export
 of gold jewellery, including partly processed jewellery, whether plain or
@@ -3242,7 +3334,8 @@ conditions indicated in ITC (HS). In respect of an EOU, permission
 to export a prohibited item may be considered, by BOA, on a case to
 case basis, provided such raw materials are imported and there is
 no procurement of such raw material from DTA.
-91
+- 91
+
 
 ---
 
@@ -3272,7 +3365,7 @@ duty, if any, leviable thereon under Section 3(1), 3(3) and 3(5) of
 the said Customs Tariff Act. Such imports and/ or
 procurements shall be made without payment of integrated tax
 and compensation cess leviable thereon under section
-3(7) and 3(9) of the Customs Tariff Act, 1975 as per
+- 3(7) and 3(9) of the Customs Tariff Act, 1975 as per
 notification issued by the Department of Revenue and
 such exemptions would be available upto 31.03.2018 only.
 (iii) The procurement of goods covered under GST from DTA would
@@ -3285,7 +3378,8 @@ falling under the Fourth Schedule of Central Excise Act, 1944
 from DTA without payment of applicable duty of excise.
 (e) State Trading regime shall not apply to EOU manufacturing units.
 However, in respect of Chrome Ore/Chrome concentrate, State
-92
+- 92
+
 
 ---
 
@@ -3327,7 +3421,8 @@ year. Details of procured / imported goods and articles
 manufactured by the EOU will be listed separately in the export
 documents. In such cases, value of procured / imported goods will
 not be taken into account for calculation of NFE and DTA sale
-93
+- 93
+
 
 ---
 
@@ -3335,11 +3430,11 @@ not be taken into account for calculation of NFE and DTA sale
 
 entitlement. Such procured / imported goods shall not be allowed
 to be sold in DTA. BOA may also specify any other conditions.
-6.02 Second hand Capital goods
+- 6.02 Second hand Capital goods
 Second hand capital goods, without any age limit, may also be
 imported with or without payment of duty/ taxes as provided under
 Para 6.01(d)(ii) above.
-6.03 Leasing of Capital Goods
+- 6.03 Leasing of Capital Goods
 (a) An EOU/EHTP/STP/BTP unit may, on the basis of a firm
 contract between parties, source capital goods from a
 domestic/ foreign leasing company with or without payment of
@@ -3366,7 +3461,8 @@ imported or procured, read with Customs Act, 1962 or Central
 Excise Act, 1944, and that the lien on the goods shall remain
 with the Customs Department, which will have first charge
 over the said goods for recovery of sum due from the
-94
+- 94
+
 
 ---
 
@@ -3375,7 +3471,7 @@ over the said goods for recovery of sum due from the
 unit to Government under provision of Section 142(b) of the
 Customs Act, 1962 read with the Customs (Attachment of
 Property of Defaulters for Recovery of Govt. Dues) Rules, 1995.
-6.04 Net Foreign Exchange Earnings
+- 6.04 Net Foreign Exchange Earnings
 EOU / EHTP / STP / BTP unit shall be a positive net foreign exchange earner.
 In addition sector specific provision of Appendix 6 B of Appendices
 & ANFs, where a higher value addition and other conditions are given,
@@ -3390,7 +3486,7 @@ adverse impact on functioning of the unit, the five year block period for
 calculation of NFE earnings may be extended by BOA for a period of upto
 one year, on a case to case basis. The method of calculation of NFE in
 detail is given in Para 6.10 of Handbook of Procedures 2015-20
-6.05 Applications & Approvals/Letter of Permission / Letter of
+- 6.05 Applications & Approvals/Letter of Permission / Letter of
 Intent and Legal Undertaking
 (a) (i) Application for setting up an EOU shall be considered by Unit
 Approval Committee (UAC)/ Board of Approval (BoA) as the case
@@ -3407,7 +3503,8 @@ recommendations of Department of Biotechnology. In case
 of units in BTP, necessary approval / permission under
 relevant provisions of this chapter will be granted by
 designated officer of Department of Biotechnology.
-95
+- 95
+
 
 ---
 
@@ -3426,7 +3523,7 @@ LoI / IL / LUT shall render the unit liable to penal action under
 provisions of the FT (D&R) Act, as amended, and Rules and Orders
 made there under, without prejudice to action under any other law /
 rules and cancellation or revocation of LoP / LoI / IL.
-6.06 Investment Criteria
+- 6.06 Investment Criteria
 Only projects having a minimum investment of Rs.1 Crore in plant &
 machinery shall be considered for establishment as EOUs. However,
 this shall not apply to existing units, units in EHTP / STP/ BTP, and
@@ -3434,18 +3531,19 @@ EOUs in Handicrafts /Agriculture/ Floriculture/Aquaculture/Animal
 Husbandry /Information Technology, Services, Brass Hardware and
 Handmade jewellery sectors. BOA may allow establishment of EOUs
 with a lower investment criteria.
-6.07 Applications & Approvals
+- 6.07 Applications & Approvals
 (a) Deleted
 (b) Deleted
 (c) Deleted
 (d) Deleted
-96
+- 96
+
 
 ---
 
 ## 🔹 Page 103
 
-6.08 DTA Sale of Finished Products / Rejects / Waste/ Scrap /
+- 6.08 DTA Sale of Finished Products / Rejects / Waste/ Scrap /
 Remnants and By-products
 Entire production of EOU/EHTP/STP/BTP units shall be exported.
 However, the following are allowed as exceptions subject to the
@@ -3481,7 +3579,8 @@ products (including bulk drugs).
 Customs Tariff Act, 1975 leviable at the time of import, shall be
 payable on the goods used for the purpose of manufacture or
 processing of the goods cleared into DTA from the unit.
-97
+- 97
+
 
 ---
 
@@ -3525,7 +3624,8 @@ connection therewith may be sold in DTA, as per SION notified under
 Duty Exemption Scheme, on payment of applicable duties and/ or taxes
 and compensation cess. Such sales of scrap / waste / remnants shall
 not be subject to achievement of positive NFE. In respect of
-98
+- 98
+
 
 ---
 
@@ -3562,13 +3662,14 @@ for the purpose of after-sale-service. The same can be cleared in
 DTA on payment of applicable GST and compensation cess along
 with reversal of duties of Customs leviable under First Schedule
 of the Customs Tariff Act, 1975 availed as exemption, if any
-99
+- 99
+
 
 ---
 
 ## 🔹 Page 106
 
-6.09 Other Supplies
+- 6.09 Other Supplies
 Following supplies effected from EOU / EHTP / STP / BTP units will
 be counted for fulfillment of positive NFE. Such supplies shall not
 include “marble”, except if such supply of marble is an inter unit
@@ -3600,13 +3701,14 @@ oil companies for being supplied to household domestic consumers at
 subsidized prices under the Public Distribution System (PDS)
 Kerosene and Domestic LPG Subsidy Scheme, 2002, as notified by the
 Ministry of Petroleum and Natural Gas vide notification No. E-
-100
+- 100
+
 
 ---
 
 ## 🔹 Page 107
 
-20029/18/2001 -PP dated 28.01.2003 (hereinafter referred to as
+- 20029/18/2001 -PP dated 28.01.2003 (hereinafter referred to as
 PDS Scheme) subject to the following conditions:-
 (i) Only supply of such quantity of LPG would be eligible for which
 Ministry of Petroleum and Natural Gas declines permission for
@@ -3614,12 +3716,12 @@ export and requires the LPG to be cleared in DTA; and
 (ii) The Ministry of Finance by a notification has permitted
 duty free imports of LPG for supply under the aforesaid
 PDS Scheme.
-6.10 Export through others
+- 6.10 Export through others
 An EOU/ EHTP/ STP/BTP unit may export goods manufactured/
 software developed by it through another exporter or any other
 EOU/EHTP/STP/SEZ unit subject to conditions mentioned in Para
-6.19 of HBP.
-6.11 Entitlement for Supplies from the DTA
+- 6.19 of HBP.
+- 6.11 Entitlement for Supplies from the DTA
 (a) Supplies from DTA to EOU/EHTP/STP/ BTP units for use in their
 manufacture for exports will b e e l i g i b l e for “benefitsunder
 Chapter 7 of FTP”. DTA supplier s h a l l b e e l i g i b l e f o r
@@ -3640,7 +3742,8 @@ manufactured in India. Simple interest @ 6% per annum
 will be payable on delay in refund of CST, if the case is
 not settled within 30 days of receipt of complete
 application (as in Para 9.10 (b) of HBP).
-101
+- 101
+
 
 ---
 
@@ -3651,7 +3754,7 @@ goods, falling in Fourth Schedule of Central Excise Act,
 procured from DTA on such goods manufactured in India.
 (iii) Deleted
 (iv) Deleted
-6.12 Other Entitlements
+- 6.12 Other Entitlements
 Other entitlements of EOU/EHTP/STP/BTP units are as under:
 (a) Exemption from industrial licensing for manufacture of items
 reserved for SSI sector.
@@ -3663,9 +3766,9 @@ of import or going for job work in DTA, where:
 (i) The unit has turnover of Rs. 5 crore or above;
 (ii) The unit is in existence for at least three years; and
 (iii) The unit:
-(1) has achieved positive NFE / export obligation
+- (1) has achieved positive NFE / export obligation
 wherever applicable;
-(2) has not been issued a show cause notice or a confirmed
+- (2) has not been issued a show cause notice or a confirmed
 demand, during the preceding 3 years, on grounds other
 than procedural violations, under the penal provision of
 the Customs Act, the Central Excise Act, the Foreign
@@ -3673,7 +3776,8 @@ Trade (Development & Regulation) Act, the Foreign
 Exchange Management Act, the Finance Act, 1994
 covering Service Tax or any allied Acts or the rules
 made thereunder, on account of fraud / collusion / wilful
-102
+- 102
+
 
 ---
 
@@ -3681,7 +3785,7 @@ made thereunder, on account of fraud / collusion / wilful
 
 mis-statement / suppression of facts or
 contravention of any of the provisions thereof;
-(e) 100% FDI investment permitted through automatic route
+- (e) 100% FDI investment permitted through automatic route
 similar to SEZ units.
 (f) Deleted
 (g) The Units Approval Committee may consider on a case-to-case basis
@@ -3691,7 +3795,7 @@ consideration. While accepting such proposals, the NFE obligations of
 the Units shall not be altered. Such facilities will be available to Units in
 EHTP / STP after getting approval from IMSC. However, sharing of
 facilities between EOUs and SEZ Units shall not be permitted.
-6.13 Inter Unit Transfer
+- 6.13 Inter Unit Transfer
 (a) Transfer of manufactured goods from one EOU/ EHTP/STP/BTP
 unit to another EOU / EHTP/ STP/ BTP unit is allowed on payment
 of applicable GST and compensation cess with prior intimation to
@@ -3714,7 +3818,8 @@ i i . Upon receipt of goods, the recipient EOU shall submit
 endorsed copies of tax invoice to their jurisdictional
 Customs authority as well as to the jurisdictional
 Customs authorities of the supplier EOU.
-103
+- 103
+
 
 ---
 
@@ -3751,11 +3856,12 @@ imported and then transferred to another unit, then value of the
 goods so transferred shall be taken as inflow for the unit
 transferring these goods and as outflow for the unit receiving
 these goods, for the purpose of calculation of NFE.
-6.14 Sub-Contracting
+- 6.14 Sub-Contracting
 (a) (i)EOU/EHTP/STP /BTP units, including gems and jewellery units, may
 on the basis of annual permission from Customs authorities,
 sub - contract production processes to DTA
-104
+- 104
+
 
 ---
 
@@ -3798,7 +3904,8 @@ duty and/or taxes, as provided under Para 6.08 above on
 transaction value or destroyed in presence of Customs authority
 or returned to unit. Destruction shall not apply to gold, silver,
 platinum, diamond, precious and semi-precious stones.
-105
+- 105
+
 
 ---
 
@@ -3807,7 +3914,7 @@ platinum, diamond, precious and semi-precious stones.
 (d) Sub - contracting/ exchange by gem sand jewellery EOUs
 through other EOUs or SEZ units or units in DTA, shall be as
 per procedure indicated in HBP.
-6.15 Sale of Unutilized Material
+- 6.15 Sale of Unutilized Material
 (a) In case an EOU / EHTP/ STP/BTP unit is unable to utilize goods
 and services, imported or procured from DTA,it maybe:
 (i) Transferred to another EOU / EHTP / STP / BTP / SEZ unit; or
@@ -3836,7 +3943,8 @@ destroyed within unit after intimation to Customs authorities or
 destroyed outside unit with permission of Customs authorities.
 Destruction as stated above shall not apply to gold, silver,
 platinum, diamond, precious and semi-precious stones.
-106
+- 106
+
 
 ---
 
@@ -3849,12 +3957,12 @@ subject to certification of Central Excise/Customs officers that
 these are left over items.
 (d) Disposal of used packing material will be allowed on payment
 of duty on transaction value.
-6.16 Reconditioning/Repair and Re - engineering
+- 6.16 Reconditioning/Repair and Re - engineering
 (a) EOUs shall be set up with approval of UAC to carry out
 reconditioning, repair, remaking, testing, calibration, quality
 improvement, upgradation of technology and re-engineering
 activities for export in foreign currency. Provisions of paragraphs
-6.08, 6.09, 6.10, 6.13, 6.14 of FTP and Para 6.29(a), (b), (c) and (d)
+- 6.08, 6.09, 6.10, 6.13, 6.14 of FTP and Para 6.29(a), (b), (c) and (d)
 of HBP shall not, however, apply to such activities.
 (b) EHTP/STP/BTP units shall be set up with approval of IMSC to
 carry out reconditioning, repair, remaking, testing, calibration,
@@ -3862,7 +3970,7 @@ quality improvement, upgradation of technology and re-
 engineering activities for export in foreign currency. Provisions
 of paragraphs 6.08, 6.09, 6.10, 6.13, 6.14 of FTP and Para 6.29(a),
 (b), (c) and (d) of HBP shall not, however, apply to such activities.
-6.17 Replacement / Repair of Imported / Indigenous Goods
+- 6.17 Replacement / Repair of Imported / Indigenous Goods
 (a) General provisions of FTP relating to export /import of
 replacement/repair of goods would also apply equally to
 EOU/EHTP/STP/BTP units. Cases not covered by these
@@ -3878,7 +3986,8 @@ brought back from foreign suppliers or their authorized agents in India
 or indigenous suppliers. The unit can take free of cost replacement
 (duty paid) from the authorized agents in India of foreign suppliers,
 provided the defective part is re – exported
-107
+- 107
+
 
 ---
 
@@ -3886,7 +3995,7 @@ provided the defective part is re – exported
 
 or destroyed. However, destruction shall not apply to precious
 and semi-precious stones and precious metals.
-6.18 Exit from EOU Scheme
+- 6.18 Exit from EOU Scheme
 (a) With approval of DC, an EOU may opt out of scheme. Such exit
 shall be subject to payment of applicable Excise and Customs
 duties and on payment of applicable IGST/ CGST/ SGST/ UTGST
@@ -3921,7 +4030,8 @@ Certificate” issued by Customs authorities and final exit order by
 DC, unit shall not be entitled to claim any exemption for
 procurement of capital goods or inputs. However, unit can claim
 Advance Authorisation / DFIA / Duty Drawback.
-108
+- 108
+
 
 ---
 
@@ -3946,7 +4056,7 @@ will be subject to fulfillment of positive NFE criteria.
 (h) A simplified procedure may be provided to fast track the De-
 bonding/ Exit of the STP / EHTP Unit which has not availed any
 duty benefit on procurement of raw material, capital goods etc.
-6.19 Conversion
+- 6.19 Conversion
 (a) Existing DTA units may also apply for conversion into an EOU /
 EHTP / STP / BTP unit.
 (b) Existing EHTP / STP units may also apply for conversion /
@@ -3956,16 +4066,17 @@ avail exemptions in duties and taxes as applicable.
 from existing DTA units, having an investment of Rs. 50 crores
 and above in plant and machinery or exporting Rs. 50 crores and
 above annually, shall be placed before BOA for a decision.
-6.20 Monitoring of NFE
+- 6.20 Monitoring of NFE
 Performance of EOU/EHTP/STP/ BTP units shall be monitored by
 Units Approval Committee as per guidelines in HBP.
-109
+- 109
+
 
 ---
 
 ## 🔹 Page 116
 
-6.21 Export through Exhibitions / Export Promotion Tours/
+- 6.21 Export through Exhibitions / Export Promotion Tours/
 Showrooms Abroad /Duty Free Shops
 EOU / EHTP/STP/BTP are permitted to:
 (i) Export goods for holding/participating in E xhibitions abroad
@@ -3976,7 +4087,7 @@ semi-precious stones, beads and articles.
 (iv) Display / sell in permitted shops set up abroad, or in
 showrooms of their distributors / agents.
 (v) Set up showrooms / retail outlets at International Airports.
-6.22 Personal Carriage of Import / Export Parcels including through
+- 6.22 Personal Carriage of Import / Export Parcels including through
 Foreign Bound Passengers
 Import/ export through personal carriage of gems and jewellery items
 may be undertaken as per Customs procedure. However, export
@@ -3986,33 +4097,36 @@ jewellery units, shall be allowed provided goods are not in commercial
 quantity. An authorized person of Gems & Jewellery EOU may also
 import gold in primary form, upto10Kgs in a financial year through
 personal carriage, as per guidelines prescribed by RBI and DoR.
-6.23 Export / Import by Post / Courier
+- 6.23 Export / Import by Post / Courier
 Goods including free samples, may be exported/imported by air freight or
 through foreign post office or through courier, as per Customs procedure.
-6.24 Administration of EOUs / Powers of DC
+- 6.24 Administration of EOUs / Powers of DC
 Details of administration of EOUs and power of DC is given in HBP.
-110
+- 110
+
 
 ---
 
 ## 🔹 Page 117
 
-6.25 Revival of Sick Units
+- 6.25 Revival of Sick Units
 Subject to a unit being declared sick by appropriate authority, proposals
 for revival of the unit or its takeover may be considered by BOA.
-6.26 Approval of EHTP/ STP
+- 6.26 Approval of EHTP/ STP
 Deleted
-6.27 Approval of BTP
+- 6.27 Approval of BTP
 Deleted
-6.28 Warehousing Facilities
+- 6.28 Warehousing Facilities
 Deleted
-111
+- 111
+
 
 ---
 
 ## 🔹 Page 118
 
-112
+- 112
+
 
 ---
 
@@ -4020,10 +4134,10 @@ Deleted
 
 CHAPTER 7
 DEEMED EXPORTS
-7.00 Objective
+- 7.00 Objective
 To provide a level-playing field to domestic manufacturers in certain
 specified cases, as may be decided by the Government from time to time.
-7.01 Deemed Exports
+- 7.01 Deemed Exports
 (i) “Deemed Exports” for the purpose of this FTP refer to those
 transactions in which goods supplied do not leave country,
 and payment for such supplies is received either in Indian
@@ -4035,7 +4149,7 @@ supplies notified under Section 147 of the CGST/SGST Act, on the
 recommendations of the GST Council. The benefits of GST and
 conditions applicable for such benefits would be as specified by the
 GST Council and as per relevant rules and notification.
-7.02 Categories of Supply
+- 7.02 Categories of Supply
 Supply of goods under following categories (a) to (d) by a
 manufacturer and under categories (e) to (h) by main / sub-
 contractors shall be regarded as “Deemed Exports”:
@@ -4048,7 +4162,8 @@ Authorisation for annual requirement / DFIA;
 B. Supply by main / sub-contractor (s):
 (e) (i) Supply of goods to projects financed by multilateral or
 bilateral Agencies / Funds as notified by Department of
-113
+- 113
+
 
 ---
 
@@ -4069,7 +4184,7 @@ with procedures of those Agencies / Funds.
 deemed export benefits, is given in Appendix 7A.
 (f) (i)Supply of goods to any project or for any purpose in respect of
 which the Ministry of Finance, by erstwhile Notification No.
-12/2012 –Customs dated 17.3.2012, as amended from time
+- 12/2012 –Customs dated 17.3.2012, as amended from time
 to time, had permitted import of such goods at zero
 customs duty (with exemption of both BCD and CVD)
 subject to conditions specified therein and which are
@@ -4091,7 +4206,8 @@ up through tariff based competitive bidding or if the project
 has been awarded through tariff based competitive bidding.
 (g) Supply of goods to United Nations or International organization for
 their official use or supplied to the projects financed by the said
-114
+- 114
+
 
 ---
 
@@ -4102,13 +4218,13 @@ Government of India in pursuance of section 3 of United
 Nations (Privileges and Immunities Act), 1947. List of such
 organization and conditions applicable to such supplies is
 given in the Customs notification no. 84/97-Customs dated
-11.11.1997, as amended from time to time. A list of Agencies,
+- 11.11.1997, as amended from time to time. A list of Agencies,
 covered under this paragraph, is given in Appendix-7B.
 (h) Supply of goods to nuclear power projects provided:
 (i) Such goods are required for setting up of any Nuclear
 Power Project as specified in the list 32 at Sl. No. 602,
 Customs notification no. 50/2017-Customs dated
-30.6.2017, as amended from time to time and subject to
+- 30.6.2017, as amended from time to time and subject to
 conditions mentioned therein.
 (ii) The project should have a capacity of 440 MW or more.
 (iii) A certificate to the effect is required to be issued by an
@@ -4116,7 +4232,7 @@ officer not below the rank of Joint Secretary to
 Government of India, in Department of Atomic Energy.
 (iv) Tender is invited through National competitive bidding
 (NCB) or through ICB.
-7.03 Benefits for Deemed Exports
+- 7.03 Benefits for Deemed Exports
 Deemed exports shall be eligible for any / all of following benefits in
 respect of manufacture and supply of goods, qualifying as deemed
 exports, subject to terms and conditions as given in HBP and ANF-7A:
@@ -4126,13 +4242,14 @@ requirement / DFIA.
 (c) Refund of terminal excise duty for excisable goods mentioned in
 Schedule 4 of Central Excise Act 1944 provided the supply is eligible
 under that category of deemed exports and there is no exemption.
-115
+- 115
+
 
 ---
 
 ## 🔹 Page 122
 
-7.04 Benefits to the Supplier /Recipient
+- 7.04 Benefits to the Supplier /Recipient
 Categories Benefits on supplies, as given in Para 7.03 above, whichever is
 of applicable.
 supplies Para 7.03 (a) Para 7.03 Para 7.03 (c)
@@ -4149,10 +4266,10 @@ letter)
 (d) deleted deleted deleted
 (e) Yes Yes NA
 (f) Yes Yes Yes, only for para
-7.08(iii)(a)
+- 7.08(iii)(a)
 (g) Yes Yes NA
 (h) Yes Yes NA
-7.05 Conditions for refund of terminal excise duty
+- 7.05 Conditions for refund of terminal excise duty
 (i) Supply of goods will be eligible for refund of terminal excise
 duty as per Para 7.03 (c) of FTP, provided recipient of goods
 does not avail CENVAT credit/rebate on such goods.
@@ -4161,20 +4278,21 @@ does not avail CENVAT credit/rebate on such goods.
 (b) Deleted
 (c) Deleted
 (d) Deleted
-116
+- 116
+
 
 ---
 
 ## 🔹 Page 123
 
-7.06 Conditions for refund of deemed export drawback
+- 7.06 Conditions for refund of deemed export drawback
 Supplies will be eligible for deemed export drawback as per para 7.03 (b) of
 FTP, as under:
 The refund of drawback in the form of Basic Customs duty of the
 inputs used in manufacture and supply under the said category
 shall be given on brand rate basis upon submission of documents
 evidencing actual payment of basic custom duties.
-7.07 Common conditions for deemed export benefits
+- 7.07 Common conditions for deemed export benefits
 (i) Supplies shall be made directly to entities listed in the Para 7.02.
 Third party supply shall not be eligible for benefits/exemption.
 (ii) In all cases, supplies shall be made directly to the designated
@@ -4190,20 +4308,21 @@ export benefit provided name of sub-contractor is indicated either
 originally or subsequently (but before the date of supply of such
 goods) in the main contract. In such cases payment shall be made
 directly to sub-contractor by the Project Authority.
-7.08 Benefits on specified supplies
+- 7.08 Benefits on specified supplies
 (i) Deemed export benefits shall be available for supplies of
 ‘Cement” under Para 7.02 (e) only.
 (ii) Deemed export benefit shall be available on supply of “Steel”:
 (a) As an inputs to Advance Authorisation/ Annual Advance
 Authorisation/DFIA holder/ an EOU.
-117
+- 117
+
 
 ---
 
 ## 🔹 Page 124
 
 (b) To multilateral/ bilateral funded Agencies as per sub-Para
-7.02(e).
+- 7.02(e).
 (iii) Deemed export benefit shall be available on supply of “Fuel”
 (in respect of eligible fuel items covered under Schedule 4 of
 Central Excise Act 1944) provided supplies are made to:
@@ -4215,13 +4334,13 @@ of FTP.
 b. EOUs;
 c. Advance Authorisation holder / Annual Advance
 Authorisation holder.
-7.09 Liability of Interest
+- 7.09 Liability of Interest
 Incomplete/deficient application is liable to be rejected. However,
 simple interest @ 6% per annum will be payable on delay in refund
 of duty drawback and terminal excise duty under the scheme,
 provided the claim is not settled within 30 days from the date of
 issue of final Approval Letter by RA.
-7.10 Risk Management and Internal Audit mechanism
+- 7.10 Risk Management and Internal Audit mechanism
 (a) A Risk Management system shall be in operation, wherein every
 month, Computer system in DGFT headquarters, on random basis,
 will select 10% of cases, for each RA, where benefit(s) under this
@@ -4234,7 +4353,8 @@ claims of all RAs falling under the jurisdiction of the Zone.
 Audit/ External Audit Agency(ies) or suo-motu, reassess any case,
 where any erroneous/in-eligible payment has been made/claimed. RA
 will take necessary action for recovery of payment
-118
+- 118
+
 
 ---
 
@@ -4242,23 +4362,25 @@ will take necessary action for recovery of payment
 
 along with interest at the rate of 15% per annum on the
 recoverable amount.
-7.11 Penal Action
+- 7.11 Penal Action
 In case, claim is filed by submitting mis-declaration/mis-representation
 of facts, then in addition to effecting recovery under Para 7.10(b)
 above, the applicant shall be liable for penal action under the
 provisions of F.T. (D&R) Act, Rules and orders made there under.
-7.12 Transitional Para
+- 7.12 Transitional Para
 Deemed exports benefits contained in FTP 2015-20 shall be
 available for supplies effected till 30.06.2017 in terms of FTP 2015-20
 provisions as it stood till 30.06.2017. In respect of supply made after
-30.6.2017, new provision shall apply.
-119
+- 30.6.2017, new provision shall apply.
+- 119
+
 
 ---
 
 ## 🔹 Page 126
 
-120
+- 120
+
 
 ---
 
@@ -4266,7 +4388,7 @@ provisions as it stood till 30.06.2017. In respect of supply made after
 
 CHAPTER 8
 QUALITY COMPLAINTS AND TRADE DISPUTES
-8.00 Objective
+- 8.00 Objective
 Exporters need to project a good image of the country abroad to
 promote exports. Maintaining an enduring relationship with foreign
 buyers is of utmost importance, and complaints or trade disputes,
@@ -4276,7 +4398,7 @@ In an endeavour to resolve such complaints or trade disputes and to
 create confidence in the business environment of the country, a
 mechanism is being laid down to address such complaints and
 disputes in an amicable way.
-8.01 Quality Complaints/ Trade disputes
+- 8.01 Quality Complaints/ Trade disputes
 The following type of complaints may be considered:
 (a) Complaints received from foreign buyers in respect of poor
 quality of the products supplied by exporters from India;
@@ -4286,7 +4408,7 @@ quality of the products supplied; and
 as non-supply/ partial supply of goods after confirmation of
 order; supplying goods other than the ones as agreed upon; non-
 payment; non-adherence to delivery schedules, etc.
-8.02 Obligation on the part of importer/ exporter
+- 8.02 Obligation on the part of importer/ exporter
 (a) Rule 11 of the Foreign Trade (Regulation) Rules, 1993, requires that on
 the importation into, or exportation out of, any customs ports of any
 goods, whether liable to duty or not, the owner of such goods shall in
@@ -4294,7 +4416,8 @@ the Bill of Entry or the Shipping Bill or any other documents prescribed
 under the Customs Act, 1962 (52 of 1962), state the value, quality and
 description of such goods to the best of his knowledge and belief and
 in case of exportation of goods, certify that the quality
-121
+- 121
+
 
 ---
 
@@ -4313,7 +4436,7 @@ Penal action can be taken under the Export (Quality Control &
 Inspection) Act, 1963 as amended in 1984, against exporters
 who do not conform to these standards and/ or provisions of
 the Act as laid down for such products.
-8.03 Provisions in FT (D&R) Act & FT (Regulation) Rules for
+- 8.03 Provisions in FT (D&R) Act & FT (Regulation) Rules for
 necessary action against erring exporters/ importers
 Action against erring exporters can be taken under the Foreign
 Trade (Development and Regulation) Act, 1992, as amended and
@@ -4333,13 +4456,14 @@ financial or fiscal benefit granted under the Act.
 in cases where a person makes or abets or attempts to make any
 import or export in contravention of any provision of the Act, any
 Rules or Orders made there under or the Foreign Trade Policy.
-122
+- 122
+
 
 ---
 
 ## 🔹 Page 129
 
-8.04 Mechanism for handling of Complaints/ Disputes
+- 8.04 Mechanism for handling of Complaints/ Disputes
 (a) Committee on Quality complaints and Trade Disputes (CQCTD)
 To deal effectively with the increasing number of complaints and
 disputes, a ‘Committee on Quality Complaints and Trade Disputes’
@@ -4361,30 +4485,32 @@ of the complaint. Wherever required, the Committee (CQCTD)
 may take the assistance of the Export Promotion
 Councils/FIEO/Commodity Boards or any other agency as
 considered appropriate for settlement of these disputes.
-8.05 Proceedings under CQCTD
+- 8.05 Proceedings under CQCTD
 CQCTD proceedings are only reconciliatory in nature and the
 aggrieved party, whether the foreign buyer or the Indian importer, is
 free to pursue any legal recourse against the other erring party.
-8.06 Procedures to deal with complaints and trade disputes
+- 8.06 Procedures to deal with complaints and trade disputes
 The procedure for making an application for such complaints or
 trade disputes and the procedure to deal with such quality
 complaints and disputes is given in the Handbook of Procedures.
-123
+- 123
+
 
 ---
 
 ## 🔹 Page 130
 
-8.07 Corrective Measures
+- 8.07 Corrective Measures
 The Committee at RA level can authorize the Export Inspection
 Agency or any technical authority to assess whether there has been
 any technical failure of not meeting the standards, manufacturing/
 design defects, etc. for which complaints have been received.
-8.08 Nodal Officer
+- 8.08 Nodal Officer
 Director General of Foreign Trade would appoint an officer, not below the
 rank of Joint Director General, in the Headquarters, to function as the ‘Nodal
 Officer’ for coordinating with various Regional Authorities of DGFT.
-124
+- 124
+
 
 ---
 
@@ -4395,13 +4521,13 @@ DEFINITIONS
 For purpose of FTP, unless context otherwise requires, the
 following words and expressions shall have the following
 meanings attached to them:-
-9.01 "Accessory" or "Attachment" means apart, sub-assembly or
+- 9.01 "Accessory" or "Attachment" means apart, sub-assembly or
 assembly that contributes to efficiency or effectiveness of a
 piece of equipment without changing its basic functions.
-9.02 "Act" means Foreign Trade (Development and Regulation)
+- 9.02 "Act" means Foreign Trade (Development and Regulation)
 Act, 1992 (No.22 of 1992) [FT (D&R) Act] as amended from
 time to time.
-9.03 “Actual User” is a person (either natural & legal) who is
+- 9.03 “Actual User” is a person (either natural & legal) who is
 authorized to use imported goods in his/its own premise
 which has a definitive postal address.
 (a) "Actual User (Industrial)" is a person (either natural &
@@ -4416,7 +4542,8 @@ business, trade or profession, which has a definitive
 postal address; or
 (ii)any laboratory, Scientific or Research and
 Development(R&D) institution, university or other
-125
+- 125
+
 
 ---
 
@@ -4426,18 +4553,18 @@ educational institution or hospital which has a
 definitive postal address; or
 (iii) Any service industry which has a definitive postal
 address.
-9.04 "AEZ" means Agricultural Export Zones notified by DGFT in
+- 9.04 "AEZ" means Agricultural Export Zones notified by DGFT in
 Appendix 2V of Appendices and Aayat Niryat Forms.
-9.05 “Appeal” is an application filed under section 15 of the Act and
+- 9.05 “Appeal” is an application filed under section 15 of the Act and
 includes such applications preferred by DGFT officials in
 government interest against decision by designated
 adjudicating/appellate authorities.
-9.06 "Applicant" means person on whose behalf an application is
+- 9.06 "Applicant" means person on whose behalf an application is
 made and shall, wherever context so requires, includes person
 signing the application.
-9.07 “Authorisation” means permission as included in Section 2(g) of
+- 9.07 “Authorisation” means permission as included in Section 2(g) of
 the Act to import or export as per provisions of FTP.
-9.08 "Capital Goods" means any plant, machinery, equipment or
+- 9.08 "Capital Goods" means any plant, machinery, equipment or
 accessories required for manufacture or production, either
 directly or indirectly, of goods or for rendering services, including
 those required for replacement, modernisation, technological up-
@@ -4449,28 +4576,29 @@ Capital goods may be for use in manufacturing, mining,
 agriculture, aquaculture, animal husbandry, floriculture,
 horticulture, pisciculture, poultry, sericulture and
 viticulture as well as for use in services sector.
-126
+- 126
+
 
 ---
 
 ## 🔹 Page 133
 
-9.09 "Competent Authority" means an authority competent to
+- 9.09 "Competent Authority" means an authority competent to
 exercise any power or to discharge any duty or function under
 the Actor the Rules and Orders made there under or under FTP.
-9.10 "Component" means one of the parts of a sub-assembly or
+- 9.10 "Component" means one of the parts of a sub-assembly or
 assembly of which a manufactured product is made up and
 into which it may be resolved. A component includes an
 accessory or attachment to another component.
-9.11 "Consumables" means any item, which participates in or is
+- 9.11 "Consumables" means any item, which participates in or is
 required for a manufacturing process, but does not
 necessarily form part of end-product. Items, which are
 substantially or totally consumed during a manufacturing
 process, will be deemed to be consumables.
-9.12 "Consumer Goods" means any consumption goods, which
+- 9.12 "Consumer Goods" means any consumption goods, which
 can directly satisfy human needs without further processing
 and includes consumer durable sand accessories thereof.
-9.13 "Counter Trade" means any arrangement under which
+- 9.13 "Counter Trade" means any arrangement under which
 exports/imports from /to India are balanced either by direct
 imports/exports from importing/exporting country or through
 a third country under a Trade Agreement or otherwise.
@@ -4478,24 +4606,25 @@ Exports/Imports under Counter Trade may be carried out
 through Escrow Account, Buy Back arrangements, Barter trade
 or any similar arrangement. Balancing of exports and imports
 could wholly or partly be in cash, goods and/or services.
-9.14 "Developer" means a person or body of persons, company,
+- 9.14 "Developer" means a person or body of persons, company,
 firm and such other private or government undertaking, who
 develops, builds, designs, organises, promotes, finances,
 operates, maintains or manages a part or whole of
 infrastructure and other facilities in SEZ as approved by
 Central Government and also includes a co- developer.
-127
+- 127
+
 
 ---
 
 ## 🔹 Page 134
 
-9.15 "Development Commissioner" means Development
+- 9.15 "Development Commissioner" means Development
 Commissioner of SEZ
-9.16 "Domestic Tariff Area (DTA)" means area within India which is
+- 9.16 "Domestic Tariff Area (DTA)" means area within India which is
 outside SEZs and EOU/ EHTP/STP/BTP.
-9.17 Deleted
-9.17A “e – commerce” for the purpose of Merchandise Exports from
+- 9.17 Deleted
+- 9.17A “e – commerce” for the purpose of Merchandise Exports from
 India Scheme (MEIS) under Foreign Trade Policy (2015-20)
 (FTP) shall mean the export of goods hosted on a website
 accessible through the internet to a purchaser. While the dispatch
@@ -4505,47 +4634,49 @@ commerce platform shall be done through international credit
 /debit cards and as per the Reserve Bank of India Circular
 (RBI/2015-16/185) [A.P.( DIR Series) Circular No. 16 dated
 September 24, 2015.] as amended from time to time.
-9.18 "EOU" means Export Oriented Unit for which a letter of permit
+- 9.18 "EOU" means Export Oriented Unit for which a letter of permit
 has been issued by Development Commissioner.
-9.19 "Excisable goods" means any goods produced or manufactured
+- 9.19 "Excisable goods" means any goods produced or manufactured
 in India and subject to duty of excise under Central Excise and
 Salt Act 1944(1of 1944).
-9.20 “Export” is as defined in FT (D&R) Act, 1992, as amended from
+- 9.20 “Export” is as defined in FT (D&R) Act, 1992, as amended from
 time to time.
-9.21 "Exporter" means a person who exports or intends to export and
+- 9.21 "Exporter" means a person who exports or intends to export and
 hold san IEC number, unless otherwise specifically exempted.
-128
+- 128
+
 
 ---
 
 ## 🔹 Page 135
 
-9.22 "Export Obligation" means obligation 6 to export product or
+- 9.22 "Export Obligation" means obligation 6 to export product or
 products covered by Authorisation or permission in terms of
 quantity, value or both, as may be prescribed or specified by
 Regional or competent authority.
-9.23 “Free” as appearing in context of import/export policy for items
+- 9.23 “Free” as appearing in context of import/export policy for items
 means goods which do not need any ‘Authorisation’/ License or
 permission for being imported into the country or exported out.
-9.24 “FTP” means the Foreign Trade Policy which specifies policy for
+- 9.24 “FTP” means the Foreign Trade Policy which specifies policy for
 exports and imports under Section 5 of the Act.
-9.25 “Import” is as defined in FT (D&R) Act, 1992 as amended from
+- 9.25 “Import” is as defined in FT (D&R) Act, 1992 as amended from
 time to time.
-9.26 "Importer" means a person who imports or intends to import
+- 9.26 "Importer" means a person who imports or intends to import
 and holds an IEC number, unless otherwise specifically
 exempted.
-9.27 ITC (HS) refers to Indian Trade Classification (Harmonized
+- 9.27 ITC (HS) refers to Indian Trade Classification (Harmonized
 System) at 8 digits.
-9.28 "Jobbing" means processing or working upon of raw materials or
+- 9.28 "Jobbing" means processing or working upon of raw materials or
 semi-finished goods supplied to job worker, so as to complete a
 part of process resulting in manufacture or finishing of an article
 or any operation which is essential for aforesaid process.
 st
-9.29 "LicensingYear"meansperiodbeginningonthe1 April of a year
+- 9.29 "LicensingYear"meansperiodbeginningonthe1 April of a year
 st
 and ending on the 31 March of the following year.
-9.30 "Managed Hotel" means hotels managed by a three star or above
-129
+- 9.30 "Managed Hotel" means hotels managed by a three star or above
+- 129
+
 
 ---
 
@@ -4556,7 +4687,7 @@ duration of at least three years between operating hotel/ hotel
 chain and hotel being managed. Management contract must
 necessarily cover the entire gamut of operations/management of
 managed hotel.
-9.31 "Manufacture" means to make, produce, fabricate, assemble,
+- 9.31 "Manufacture" means to make, produce, fabricate, assemble,
 process or bring into existence, by hand or by machine, a new
 product having a distinctive name, character or use and shall
 include processes such as refrigeration, re-packing, polishing,
@@ -4566,46 +4697,48 @@ Manufacture, for the purpose of FTP, shall also include
 agriculture, aquaculture, animal husbandry, floriculture,
 horticulture, pisciculture, poultry, sericulture, viticulture and
 mining.
-9.32 "Manufacturer Exporter" means a person who exports goods
+- 9.32 "Manufacturer Exporter" means a person who exports goods
 manufactured by him or intends to export such goods.
-9.33 “Merchant Exporter” means a person engaged in trading activity
+- 9.33 “Merchant Exporter” means a person engaged in trading activity
 and exporting or in tending to export goods.
-9.34 “NC” means the Norms Committee in the Directorate General
+- 9.34 “NC” means the Norms Committee in the Directorate General
 of Foreign Trade for approval of adhoc input –output norms in
 cases where SION does not exist and recommend SION to be
 notified in DGFT.
-9.35 "Notification" means a notification published in Official Gazette.
-130
+- 9.35 "Notification" means a notification published in Official Gazette.
+- 130
+
 
 ---
 
 ## 🔹 Page 137
 
-9.36 "Order" means an Order made by Central Government
+- 9.36 "Order" means an Order made by Central Government
 under the Act.
-9.37 "Part" means an element of a sub-assembly or assembly
+- 9.37 "Part" means an element of a sub-assembly or assembly
 not normally useful by itself, and not amenable to further
 disassembly for maintenance purposes. Apart may be a
 component, spare or an accessory.
-9.38 "Person" means both natural and legal and includes an
+- 9.38 "Person" means both natural and legal and includes an
 individual, firm, society, company, corporation or any other
 legal person including the DGFT officials.
-9.39 "Policy" means Foreign Trade Policy (2015-2020 ) as
+- 9.39 "Policy" means Foreign Trade Policy (2015-2020 ) as
 amended from time to time.
-9.40 "Prescribed" means prescribed under the Actor the Rules
+- 9.40 "Prescribed" means prescribed under the Actor the Rules
 or Orders made there under or under FTP.
-9.41 “Prohibited” indicates the import/export policy of an item,
+- 9.41 “Prohibited” indicates the import/export policy of an item,
 as appearing in ITC (HS) or elsewhere, whose import or
 export is not permitted.
-9.42 "Public Notice" means a notice published under provisions
+- 9.42 "Public Notice" means a notice published under provisions
 of paragraph2.55 of FTP
-131
+- 131
+
 
 ---
 
 ## 🔹 Page 138
 
-9.42A “Project Exports” refers to export of engineering goods on
+- 9.42A “Project Exports” refers to export of engineering goods on
 deferred payment terms and execution of turnkey projects
 and civil construction contracts abroad collectively.
 Project Exports would encompass (i) Civil construction
@@ -4613,40 +4746,41 @@ contracts; (ii) Turnkey Engineering contracts including
 supply of Capital Goods on deferred payment terms; (iii)
 Process and Engineering Consultancy Services; and (iv)
 Project Construction items (excluding Steel and Cement).
-9.43 “Quota” means the quantity of goods of a specific kind that
+- 9.43 “Quota” means the quantity of goods of a specific kind that
 is permitted to be imported without restriction or
 imposition of additional Duties.
-9.44 "Raw material" means input(s) needed for manufacturing of
+- 9.44 "Raw material" means input(s) needed for manufacturing of
 goods. These inputs may either be in a
 raw/natural/unrefined/unmanufactured or manufactured state.
-9.45 "Regional Authority" means authority competent to grant an
+- 9.45 "Regional Authority" means authority competent to grant an
 Authorisation under the Act/Order.
-9.46 "Registration-Cum-Membership Certificate"(RCMC) means
+- 9.46 "Registration-Cum-Membership Certificate"(RCMC) means
 certificate of registration and membership granted by an Export
 Promotion Council/Commodity Board/Development Authority or
 other competent authority as prescribed in FTP or Handbook of
 Procedure.
-9.47 “Restricted” is a term indicating the import or export policy of an
+- 9.47 “Restricted” is a term indicating the import or export policy of an
 item, which can be imported into the country or exported
 outside, only after obtaining an Authorisation from the offices of
 DGFT.
-9.48 "Rules" means Rules made by Central Government under Section
-19 of the FT (D&R) Act.
-132
+- 9.48 "Rules" means Rules made by Central Government under Section
+- 19 of the FT (D&R) Act.
+- 132
+
 
 ---
 
 ## 🔹 Page 139
 
-9.49 “SCOMET” is the nomenclature for dual use items of Special
+- 9.49 “SCOMET” is the nomenclature for dual use items of Special
 Chemicals, Organisms, Materials, Equipment and
 Technologies (SCOMET). Export of dual-use items and
 technologies under India’s Foreign Trade Policy is regulated.
 It is either prohibited or is permitted under an Authorisation.
-9.50 "Services" include all tradable services covered under
+- 9.50 "Services" include all tradable services covered under
 General Agreement on Trade in Services (GATS) and
 earning free foreign exchange.
-9.51 "Service Provider" means a person providing:
+- 9.51 "Service Provider" means a person providing:
 (i) Supply of a ‘service’ from India to any other country;
 (Mode1- Cross border trade)
 (ii) Supply of a ‘service’ from India to service consumer(s)of
@@ -4657,63 +4791,66 @@ Presence.)
 (iv)Supply of a ‘service’ from India through the presence
 of natural persons in any other country (Mode 4-
 Presence of natural persons.)
-9.52 "Ships" mean all types of vessels used for seaborne trade
+- 9.52 "Ships" mean all types of vessels used for seaborne trade
 or coastal trade, and shall include second hand vessels.
-9.53 "SION" means Standard Input Output Norms notified by DGFT.
-133
+- 9.53 "SION" means Standard Input Output Norms notified by DGFT.
+- 133
+
 
 ---
 
 ## 🔹 Page 140
 
-9.54 "Spares” means a part or a sub-assembly or assembly for
+- 9.54 "Spares” means a part or a sub-assembly or assembly for
 substitution that is ready to replace an identical or similar
 part or sub- assembly or assembly. Spares include a
 component or an accessory.
-9.55 "Specified" means specified by or under the provisions of
+- 9.55 "Specified" means specified by or under the provisions of
 this Policy through Notification/Public Notice.
-9.56 "Status holder" means an exporter recognized as One Star
+- 9.56 "Status holder" means an exporter recognized as One Star
 Trading House/ Two Star Trading House / Three Star
 Trading House/ Four Star Trading House/ Five Star Trading
 House by DGFT/Development Commissioner.
-9.57 “Stores” means goods for use in a vessel or aircraft and
+- 9.57 “Stores” means goods for use in a vessel or aircraft and
 includes fuel and spares and other articles of equipment,
 whether or not for immediate fitting.
-9.58 (a) "Supporting Manufacturer" is one who manufactures
+- 9.58 (a) "Supporting Manufacturer" is one who manufactures
 goods/products or any part/accessories/components of a
 good/product for a merchant exporter or a manufacturer
 exporter under a specific Authorisation.
 (b) “Supporting Manufacturer” for the EPCG Scheme shall be
 one in whose premises/factory Capital Goods imported/
 procured under EPCG Authorisation is installed.
-9.59 State Trading Enterprises (STEs), for the purpose of this FTP,
+- 9.59 State Trading Enterprises (STEs), for the purpose of this FTP,
 are those entities which are granted exclusive right/privileges
 export and /or import as per Para 2.20 (a) of FTP.
-134
+- 134
+
 
 ---
 
 ## 🔹 Page 141
 
-9.60 "Third-party exports" means exports made by an exporter or
+- 9.60 "Third-party exports" means exports made by an exporter or
 manufacturer on behalf of another exporter(s).
 In such cases, export documents such as shipping bills shall
 indicate names of both manufacturer exporter/manufacturer
 and third party exporter(s). Bank Realisation Certificate (BRC),
 Self Declaration Form (SDF), export order and invoice should be
 in the name of third party exporter.
-9.61 "Transaction Value” is as defined in Customs Valuation Rules of
+- 9.61 "Transaction Value” is as defined in Customs Valuation Rules of
 Department of Revenue.
-9.62 "Wild Animal" means any wild animal as defined in Section2 (36)
+- 9.62 "Wild Animal" means any wild animal as defined in Section2 (36)
 of Wildlife (Protection) Act, 1972.
-135
+- 135
+
 
 ---
 
 ## 🔹 Page 142
 
 Appendix I (Para 2.17)
-2.17 Prohibition on direct or indirect import and export from/to
+- 2.17 Prohibition on direct or indirect import and export from/to
 Democratic People's Republic of Korea (DPRK)
 Prohibition on export:
 (A) The direct or indirect supply, sale, transfer or export of the following
@@ -4728,21 +4865,22 @@ light weapons and their related materiel;
 (iii) all items, materials, equipment, goods and technology as set out
 in the UNSC United Nations Security Council and International
 Atomic Energy Agency (IAEA) documents, namely,
-1.S/2006/853*;
-2.S/2006/853/Corr.1;
-3.Part B of S/2009/364;
-4.Annex III of Resolution 2094 (2013);
-5.S/2016/1069;
-6.Annex A to INFCIRC/254/Rev.12/Part1 (IAEA document);
-7.Annex to INFCIRC/254/Rev.9/Part2 (IAEA document);
-8.S/2014/253;
-9.S/2016/308;
-10.Annex III of Resolution 2321 (2016); and
-11. other items, materials, equipment, goods and technology,
+- 1.S/2006/853*;
+- 2.S/2006/853/Corr.1;
+- 3.Part B of S/2009/364;
+- 4.Annex III of Resolution 2094 (2013);
+- 5.S/2016/1069;
+- 6.Annex A to INFCIRC/254/Rev.12/Part1 (IAEA document);
+- 7.Annex to INFCIRC/254/Rev.9/Part2 (IAEA document);
+- 8.S/2014/253;
+- 9.S/2016/308;
+- 10.Annex III of Resolution 2321 (2016); and
+- 11. other items, materials, equipment, goods and technology,
 as determined by the Central Government, which could
 contribute to DPRK’s nuclear related, ballistic missile-related
 or other weapons of mass destruction related programmes;
-136
+- 136
+
 
 ---
 
@@ -4768,7 +4906,7 @@ advance by the Committee on a case-by-case basis;
 (ii) Aviation fuel, including aviation gasoline, naphtha-type jet fuel,
 kerosene-type jet fuel, and kerosene-type rocket fuel. This measure
 is subject to the provisions of paragraph 31 of Resolution 2270
-(2016) and paragraph 20 of Resolution of 2321 (2016);
+- (2016) and paragraph 20 of Resolution of 2321 (2016);
 (iii) Condensates and natural gas liquids;
 (iv) Refined petroleum products. This measure is subject to
 the exemptions and procedures set out in paragraph 14 of
@@ -4776,7 +4914,8 @@ Resolution 2375 (2017);
 (v) Crude oil. This measure is subject to the exemptions and
 procedures set out in paragraph 15 of Resolution 2375 (2017);
 Sectoral prohibitions (import)
-137
+- 137
+
 
 ---
 
@@ -4809,15 +4948,17 @@ of paragraph 12 of Resolution 1718 (2006); and
 Resolution, as the case may be, means the UNSC Resolutions under
 Chapter VII of the Charter of the United Nations on Democratic
 People’s Republic of Korea, namely, 1718 (2006), 1874 (2009), 2087
-(2013), 2094 (2013), 2094 (2013), 2270 (2016), 2231 (2016), 2356
-(2017), 2371 (2017) and 2375 (2017).
-138
+- (2013), 2094 (2013), 2094 (2013), 2270 (2016), 2231 (2016), 2356
+- (2017), 2371 (2017) and 2375 (2017).
+- 138
+
 
 ---
 
 ## 🔹 Page 145
 
-139
+- 139
+
 
 ---
 
@@ -4830,9 +4971,9 @@ AANF Appendices and Aayaat Niryat Form
 ACU Asian Clearing Union
 AEZ Agri Export Zone
 ANF Aayat Niryaat Form
-ARE-1 Application for Removal of Excisable Goods for Export
+- ARE-1 Application for Removal of Excisable Goods for Export
 (By Air/Sea/Post/Land)
-ARE-3 Application for Removal of Excisable Goods from a
+- ARE-3 Application for Removal of Excisable Goods from a
 factory or a warehouse to another warehouse
 ACP Accredited Clients Programme
 AEO Authorised Economic Operator
@@ -4864,7 +5005,8 @@ CG Capital Goods
 CIF Cost, Insurance & Freight
 CIN Corporate Identification Number
 CIS Commonwealth of Independent States
-140
+- 140
+
 
 ---
 
@@ -4913,7 +5055,8 @@ EFC Exim Facilitation Committee
 EFT Electronic Fund Transfer
 EGM Export General Manifest
 EHTP Electronic Hardware Technology Park
-141
+- 141
+
 
 ---
 
@@ -4936,7 +5079,7 @@ FIRC Foreign Exchange Inward Remittance Certificate
 FOB Free On Board
 FOR Freight on Road and Rails
 FT(D&R)Act Foreign Trade ( Development & Regulation) Act, 1992
-(22 of 1992)
+- (22 of 1992)
 FTDO Foreign Trade Development Officer
 FTP Foreign Trade Policy
 FT(R) Rules Foreign Trade (Regulation) Rules
@@ -4962,7 +5105,8 @@ IL Industrial Licensing
 ISO International Standards Organisation
 ITC (HS) Indian Trade Classification (Harmonised System) for
 Export & Import Items
-142
+- 142
+
 
 ---
 
@@ -5011,7 +5155,8 @@ S/B Shipping Bill
 SAD Special Additional Duty
 SCOMET Special Chemicals, Organisms, Materials, Equipment and
 Technology
-143
+- 143
+
 
 ---
 
@@ -5046,7 +5191,8 @@ WCO World Customs Organisation
 WHOGMP World Health Organisation Good Manufacturing
 Practices
 ************
-144
+- 144
+
 
 ---
 
